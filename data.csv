@@ -1,0 +1,552 @@
+A;B;A;B;Abs;[R2 U': [S, R2]];[R' D' R U: [U, R' D R]]
+A;C;A;C;Ace;;
+A;D;A;D;Add;[L2 U: [S', L2]];[R' D' U': [U', R' D R]]
+A;E;A;Z;Aze;;[Lw' U D': [R D R', U2]]
+A;F;A;F;Aft;[R' U': [S, R2]];
+A;G;A;G;Age;[R' F': [R U R', E]];[D U': [R D R', U2]]
+A;H;A;CH;Ah;[L U: [S', L2]];[D' U': [R D' R', U2]]
+A;I;A;I;Aid;[U M U: [M', U2]];
+A;J;A;SH;Ash;[U: [L' E L, U2]];[R' U D R2: [U', R' D' R]]
+A;K;A;K;Ankh;[U': [R' E' R, U2]];[U': [R D R', U2]]
+A;L;A;L;Ale;[U: [L E' L', U2]];[R' D' R, U2]
+A;M;A;M;Aim;;[R' U D: [R D R', U2]]
+A;N;A;N;Ann;[L' U: [S', L2]];
+A;O;A;O;Aow;[U M' U: [M', U2]];[D' U': [R D R', U2]]
+A;P;A;P;Ape;[R U': [S, R2]];[D U': [R D' R', U2]]
+A;Q;A;Y;Ache;[U' M U': [M', U2]];
+A;R;A;R;Air;[U': [R' E R, U2]];[F: [U2, R' D' R]]
+A;S;A;S;Ass;[U: [L E L', U2]];[R' D R, U2]
+A;T;A;T;At;[U': [R E' R', U2]];[U': [R D' R', U2]]
+A;U;A;U;Auf;[U2, M'];[R F' R' U': [R D R', U2]]
+A;V;A;V;Ave;[U': [S, R2]];[R2: [U, R2' D R2 D' R2']]
+A;W;A;W;Awe;[M, U2];[R D' R': [R' D R, U2]]
+A;X;A;X;Axe;[U: [S', L2]];[R' D' U' R2: [U', R' D R]]
+B;A;B;A;Baa;[R2 U': [R2, S]];[R' D' R U: [R' D R, U]]
+B;C;B;C;Back;;
+B;D;B;D;Bed;[M2 U: [M, U2]];[R' D' R U: [R' D R, U2]]
+B;E;B;Z;Buzz;;[R: [U2, R D R']]
+B;F;B;F;Buff;[U: [L' E2 L, U]];
+B;G;B;G;Bug;[M', R U' R' U];[D': [R' D R, U]]
+B;H;B;CH;Bah;[U', R E2 R'];[D: [R' D' R, U]]
+B;I;B;I;Brie;;
+B;J;B;SH;Bush;[U: [L' E L, U]];
+B;K;B;K;Bike;[U', R' E' R];[U', R D R']
+B;L;B;L;Bell;[U: [L E' L', U]];[R' D' R, U]
+B;M;B;M;Bum;[M, R' U' R U];
+B;N;B;N;Ben;[U', R' E2 R];[R': [R' D' R, U2]]
+B;O;B;O;Boo;U M U M' U M U M';[D': [U', R D R']]
+B;P;B;P;Bop;[E: [U', R E' R']];[D: [U', R D' R']]
+B;Q;B;Y;Bye;[S', L F' L'];[R: [U, R D R']]
+B;R;B;R;Bar;[U', R' E R];[R': [R' D' R, U']]
+B;S;B;S;Best;[U: [L' E' L, U]];[R' D R, U]
+B;T;B;T;Bet;[U', R E' R'];[U', R D' R']
+B;U;B;U;Brute;[M U2 M, U];[R F': [R' U' R, D]]
+B;V;B;V;Bruv;[R' U R': [S, R2]];[R' D R U' R D' R', U]
+B;W;B;W;Bow;[M2, R U' R' U];[U', R D' R' U R' D R]
+B;X;B;X;Box;U' L' U' L U L U L U' L';[R' B: [D', R U R']]
+C;A;C;A;Cha;;
+C;B;C;B;Cub;;
+C;D;C;D;Cod;;
+C;E;C;Z;Czech;;
+C;F;C;F;Cough;;
+C;G;C;G;Cog;;
+C;H;C;CH;Chj;;
+C;I;C;I;Cig;;
+C;J;C;SH;Cash;;
+C;K;C;K;Cock;;
+C;L;C;L;Call;;
+C;M;C;M;Come;;
+C;N;C;N;Can;;
+C;O;C;O;Cool;;
+C;P;C;P;Cup;;
+C;Q;C;Y;Coy;;
+C;R;C;R;Car;;
+C;S;C;S;Cuss;;
+C;T;C;T;Cut;;
+C;U;C;U;Cue;;
+C;V;C;V;Cov;;
+C;W;C;W;Cow;;
+C;X;C;X;Crux;;
+D;A;D;A;Dad;[L2 U: [L2, S']];[R' D' U': [R' D R, U']]
+D;B;D;B;Dab;[M2 U: [U2, M]];[R' D' R U: [U2, R' D R]]
+D;C;D;C;Dice;;
+D;E;D;Z;Deez;;
+D;F;D;F;Diff;[U, L' E2 L];
+D;G;D;G;Dog;[M', L' U L U'];[D': [R' D R, U']]
+D;H;D;CH;Doh;[U': [R E2 R', U']];[D: [R' D' R, U']]
+D;I;D;I;Die;[S, R' F R];
+D;J;D;SH;Dash;[U, L' E L];[U' R': [U2, R' D' R]]
+D;K;D;K;Dink;[U': [R' E' R, U']];[U': [R D R', U']]
+D;L;D;L;Deal;[U, L E' L'];[R' D' R, U']
+D;M;D;M;Dumb;[M, L U L' U'];[R' D': [U', R' D R]]
+D;N;D;N;Dan;[E': [U, L' E L]];[U' R': [U', R' D' R]]
+D;O;D;O;Do;U' M U' M' U' M U' M';[D: [R' D R, U']]
+D;P;D;P;Derp;[U, L E2 L'];[D': [R' D' R, U']]
+D;Q;D;Y;Daque;;[R U R': [U2, R' D' R]]
+D;R;D;R;Dare;[U': [R' E R, U']];
+D;S;D;S;Doss;[U, L' E' L];[R' D R, U']
+D;T;D;T;Dot;[U': [R E' R', U']];[U': [R D' R', U']]
+D;U;D;U;Due;[R' F': [R S R', F2]];[R' U' R: [F2, R' U R U']]
+D;V;D;V;Dive;U R U R' U' R' U' R' U R;[R' D R U' R D' R', U']
+D;W;D;W;Down;U D' R U R' U' R' U' R' U R D;[R D' R2': [D, R U' R']]
+D;X;D;X;Dox;[L U' L: [S', L2]];[R' D' R2: [U', R' D R]]
+E;A;Z;A;Za;;[Lw' U D': [U2, R D R']]
+E;B;Z;B;Zub;;[R: [R D R', U2]]
+E;C;Z;C;Zucc;;
+E;D;Z;D;Zed;;
+E;F;Z;F;Ziff;;
+E;G;Z;G;Zig;;[D' R' D: [F2, D' R D R']]
+E;H;Z;CH;Zah;;[R U: [R' D R, U2]]
+E;I;Z;I;Zie;;
+E;J;Z;SH;Zsh;;[R': [U', R2 D' R2 D R2]]
+E;K;Z;K;Zeek;;[R U D': [R' D R, U2]]
+E;L;Z;L;Zul;;[D R U: [R' D' R, U2]]
+E;M;Z;M;Zum;;[R U D': [R' D' R, U2]]
+E;N;Z;N;Zan;;[R2 U' R U: [R' D' R, U2]]
+E;O;Z;O;Zoe;;[D R' D: [F2, D' R D R']]
+E;P;Z;P;Zop;;[R U: [R' D' R, U2]]
+E;Q;Z;Y;Zayn;;[Lw' U': [R D' R', U2]]
+E;R;Z;R;Zar;;
+E;S;Z;S;Zest;;[R' D: [F2, D' R D R']]
+E;T;Z;T;Zut;;[R U D: [R' D R, U2]]
+E;U;Z;U;Zeus;;[R U D: [R' D' R, U2]]
+E;V;Z;V;Ziv;;[D' R U D: [R' D' R, U2]]
+E;W;Z;W;Zew;;[D R2: [D', R' U2 R]]
+E;X;Z;X;Zex;;[R2 U: [D', R' U R]]
+F;A;F;A;Faye;[R' U': [R2, S]];
+F;B;F;B;Fob;[U: [U, L' E2 L]];
+F;C;F;C;Face;;
+F;D;F;D;Fad;[L' E2 L, U];
+F;E;F;Z;Fez;;
+F;G;F;G;Fag;[M', U' R U];
+F;H;F;CH;Fetch;[R' U' R: [E, R2]];
+F;I;F;I;Fie;[R' U' E' R: [E, R2]];
+F;J;F;SH;Fish;[R U' R', E'];
+F;K;F;K;Fuck;[R' Uw' R: [R2, E']];
+F;L;F;L;Fall;;
+F;M;F;M;Fam;[M, U' R U];
+F;N;F;N;Fin;[R' U' R': [E', R2]];
+F;O;F;O;Foe;[U2: [M, U R U']];
+F;P;F;P;Fap;[U R': [S, R2]];
+F;Q;F;Y;Fly;[S' U L: [E', L2]];
+F;R;F;R;Fur;[R U' R', E];
+F;S;F;S;Fuss;[U: [S, L F2 L']];
+F;T;F;T;Foot;[R: [U', R E' R']];
+F;U;F;U;Fue;[U D' L: [E', L2]];
+F;V;F;V;Fiv;U R' U' R' U R U R U R' U2;
+F;W;F;W;Faw;[M2, U' R U];
+F;X;F;X;Fox;[U L: [E', L2]];
+G;A;G;A;Gaa;[R' F': [E, R U R']];[D U': [U2, R D R']]
+G;B;G;B;Gab;[R U' R' U, M'];[D': [U, R' D R]]
+G;C;G;C;Gec;;
+G;D;G;D;God;[L' U L U', M'];[D': [U', R' D R]]
+G;E;G;Z;Guz;;[D' R' D: [D' R D R', F2]]
+G;F;G;F;Guff;[U' R U, M'];
+G;H;G;CH;Gooch;[U L' U', M'];[R': [F', R D' R' D]]
+G;I;G;I;Git;[R' F': [E, R U' R']];
+G;J;G;SH;Gosh;[M': [U R' U', M']];[U' R' U: [R D R', U2]]
+G;K;G;K;Geek;[U': [S', R' F' R]];[U: [R U' R', D']]
+G;L;G;L;Gul;[M, D R' D'];
+G;M;G;M;Gum;[U': [S, R' F' R]];[D' R' U: [R U' R', D]]
+G;N;G;N;Gun;[U L U', M'];[U' R' U2: [R D R', U]]
+G;O;G;O;Go;[U M': [U', M U2 M]];[U: [R U' R', D2']]
+G;P;G;P;Gap;[U' R' U, M'];[R U R' U': [D', R U R']]
+G;Q;G;Y;Gay;[L F: [E', L' U L]];[R U R': [U', R' D' R]]
+G;R;G;R;Gear;[M': [U' L' U, M']];[R: [R' U R U', F]]
+G;S;G;S;Gus;[U: [S, L F L']];[U: [R U' R', D]]
+G;T;G;T;Gut;[U' M': [R E' R', U']];[Lw' U: [R U' R', D]]
+G;U;G;U;Gucc;;[R: [R' U R U', F2']]
+G;V;G;V;Gov;[U R' F' R': [S, R2]];
+G;W;G;W;Gaw;[D: [R F R', S']];[U R D': [U', R' D R]]
+G;X;G;X;Gox;[U' L F L: [S', L2]];[D U' R2': [D, R U R']]
+H;A;CH;A;Ha;[L U: [L2, S']];[D' U': [U2, R D' R']]
+H;B;CH;B;Hob;[R E2 R', U'];[D: [U, R' D' R]]
+H;C;CH;C;Hack;;
+H;D;CH;D;Hood;[U': [U', R E2 R']];[D: [U', R' D' R]]
+H;E;CH;Z;Haze;;[R U: [U2, R' D R]]
+H;F;CH;F;Hoof;[R' U' R: [R2, E]];
+H;G;CH;G;Hug;[M', U L' U'];[R': [R D' R' D, F']]
+H;I;CH;I;Hill;[S U' R': [E, R2]];
+H;J;CH;SH;Hush;[L': [U, L' E L]];[U R U D: [R' D' R, U2]]
+H;K;CH;K;Hulk;[U': [S', R' F2 R]];[R D2: [R' U' R, D']]
+H;L;CH;L;Hell;[L' U L, E'];[D, R U R']
+H;M;CH;M;Hoe;[M, U L' U'];[R' F: [R U' R', D]]
+H;N;CH;N;Han;[U' L: [S', L2]];[D R': [D, R' U R]]
+H;O;CH;O;Hoe;[U2: [M, U' L' U]];[D' R D': [R' U' R, D2]]
+H;P;CH;P;Hop;[R U' R': [E, R2]];[D: [R U R', D2]]
+H;Q;CH;Y;Hey;[Rw' F': [Rw S Rw', F']];[R U2: [R' D R, U']]
+H;R;CH;R;Her;;[D R' U': [R U R', D']]
+H;S;CH;S;Hose;[S' U' R': [E, R2]];
+H;T;CH;T;Hut;[L' U L, E];[D: [R U R', D]]
+H;U;CH;U;Hue;[U' D R': [E, R2]];
+H;V;CH;V;Hive;[U' R': [E, R2]];[R U' R': [R' D R, U2]]
+H;W;CH;W;How;[M2, U L' U'];[D R: [R D' R', U']]
+H;X;CH;X;Chex;U' L U L U' L' U' L' U' L U2;[D R D: [U, R' D' R]]
+I;A;I;A;Ian;[U M U: [U2, M']];
+I;B;I;B;Ib;;
+I;C;I;C;Ice;;
+I;D;I;D;Id;[R' F R, S];
+I;E;I;Z;Ize;;
+I;F;I;F;If;[R' U' E' R: [R2, E]];
+I;G;I;G;Ig;[R' F': [R U' R', E]];
+I;H;I;CH;Itch;[S U' R': [R2, E]];
+I;J;I;SH;Ish;[S': [U, L' E L]];
+I;K;I;K;Ick;[Rw U' R: [S, R2]];
+I;L;I;L;Ill;[S': [U, L E' L']];
+I;M;I;M;Im;[R U R' U', M'];
+I;N;I;N;In;[S U' R': [E', R2]];
+I;O;I;O;Io;[D L F' L': [S', L2]];
+I;P;I;P;Ip;[R Uw' R: [E', R2]];
+I;Q;I;Y;Iye;[M U': [M', U2]];
+I;R;I;R;Iron;[U' M: [R' E R, U']];
+I;S;I;S;Is;[L F' L': [S', L2]];
+I;T;I;T;It;[Lw U': [M', U2]];
+I;U;I;U;eeiu;[R F: [R2, E]];
+I;V;I;V;Ivy;[R' F R, S'];
+I;W;I;W;Iwi;[D': [R' F R, S']];
+I;X;I;X;Ix;[R': [F, R' S' R]];
+J;A;J;A;Ja;[U: [U2, L' E L]];[R' U D R2: [R' D' R, U']]
+J;B;J;B;Jab;[U: [U, L' E L]];
+J;C;J;C;Juice;;
+J;D;J;D;Jud;[L' E L, U];[U' R': [R' D' R, U2]]
+J;E;J;Z;Jizz;;[R': [R2 D' R2 D R2, U']]
+J;F;J;F;Jeff;[E', R U' R'];
+J;G;J;G;Jig;[M': [M', U R' U']];[U' R' U: [U2, R D R']]
+J;H;J;CH;Juh;[L': [L' E L, U]];[U R U D: [U2, R' D' R]]
+J;I;J;I;Jim;[S': [L' E L, U]];
+J;K;J;K;Jake;[R, U' S U];[U R U': [R' D' R, U2]]
+J;L;J;L;Jail;[M' U' R: [S, R2]];[R: [U', R2' D R2 D' R2']]
+J;M;J;M;Jim;[U R' U', M'];
+J;N;J;N;Jan;[E, L U L'];[U R2 U': [D', R U R']]
+J;O;J;O;Joe;[U M: [U', Lw' E Lw]];[U' R' U': [R D' R', U2]]
+J;P;J;P;Jap;;[U D R: [U2, R D' R']]
+J;Q;J;Y;Jay;[Rw' U': [M', U2]];[R: [U, R2' D R2 D' R2']]
+J;R;J;R;Jar;[Rw U R: [E, R2]];[R U' D' R2': [U, R D R']]
+J;S;J;S;Jess;[L F': [L2, E]];[U R U': [R' D R, U2]]
+J;T;J;T;Jet;[Uw R': [S, R2]];[U R: [U2, R D' R']]
+J;U;J;U;Ju;[F': [E, R2]];[U' R2': [D, R U2 R']]
+J;V;J;V;Jive;[Uw' R: [E', R2]];[U' D' R2': [D, R U2 R']]
+J;W;J;W;Jaw;[M: [U R' U', M2]];[U R U' D': [R' D R, U2]]
+J;X;J;X;Jax;[Uw L: [E', L2]];[D U' R2': [D, R U2 R']]
+K;A;K;A;Ka;[U': [U2, R' E' R]];[U': [U2, R D R']]
+K;B;K;B;Kib;[R' E' R, U'];[R D R', U']
+K;C;K;C;Kic;;
+K;D;K;D;Kid;[U': [U', R' E' R]];[U': [U', R D R']]
+K;E;K;Z;Kaze;;[R U D': [U2, R' D R]]
+K;F;K;F;Keef;[R' Uw' R: [E', R2]];
+K;G;K;G;Keg;[U': [R' F' R, S']];[U: [D', R U' R']]
+K;H;K;CH;Kich;[U': [R' F2 R, S']];[R D2: [D', R' U' R]]
+K;I;K;I;Ki;[Rw U' R: [R2, S]];
+K;J;K;SH;Kush;[U' S U, R];[U R U': [U2, R' D' R]]
+K;L;K;L;Kill;[D' M D, R'];[R D': [R' D R, U]]
+K;M;K;M;Kim;[R: [U R U', M']];[U' R U : [R' U' R , D]]
+K;N;K;N;Ken;[R' E': [R U' R', E']];[R' U: [R' D' R, U]]
+K;O;K;O;Koe;[U': [R B R', S']];[U': [R' U' R, D']]
+K;P;K;P;Kip;[S U L: [E, L2]];
+K;Q;K;Y;Kay;[R' F R': [S, R2]];[U' R : [D' , R U' R']]
+K;R;K;R;Kurk;[M' U R: [E, R2]];[R' U: [R' D' R, U2]]
+K;S;K;S;Kiss;[R' F R: [S', R2]];[U D': [R U' R', D2']]
+K;T;K;T;Kit;[R' F: [E', R2]];[R D : [R' U' R , D2]]
+K;U;K;U;Kung;[R' F': [E, R2]];[U' R': [R' D R, U]]
+K;V;K;V;Kev;;[D' R: [R' U R U', F2']]
+K;W;K;W;Kew;[U': [S, R' B R]];
+K;X;K;X;Kax;[R F R', S'];[R2 D2 :[R U R', D]]
+L;A;L;A;La;[U: [U2, L E' L']];[U2, R' D' R]
+L;B;L;B;Lab;[U: [U, L E' L']];[U, R' D' R]
+L;C;L;C;Lick;;
+L;D;L;D;Lud;[L E' L', U];[U', R' D' R]
+L;E;L;Z;Lezz;;[D R U: [U2, R' D' R]]
+L;F;L;F;Laugh;;
+L;G;L;G;Lag;[D R' D', M];
+L;H;L;CH;Latch;[E', L' U L];[R U R', D]
+L;I;L;I;Lie;[S': [L E' L', U]];
+L;J;L;SH;Lash;[M' U' R: [R2, S]];[R: [R2' D R2 D' R2', U']]
+L;K;L;K;Lock;[R', D' M D];[R D': [U, R' D R]]
+L;M;L;M;Limb;[U R U', M'];[R' U: [R U' R', D']]
+L;N;L;N;Lan;[L: [L E' L', U]];[R': [D, R' U R]]
+L;O;L;O;Loo;[U M: [U', L E' L']];[U R' D': [R U' R', D']]
+L;P;L;P;Lip;[E, R' U' R];[R U R', D']
+L;Q;L;Y;Lay;[R M U': [M', U2]];[U R' U': [R D R', U']]
+L;R;L;R;Lore;[U E R: [S, R2]];[R' U': [R U R', D']]
+L;S;L;S;Lass;[M' U' L: [E', L2]];[U R' D': [R U' R', D2]]
+L;T;L;T;Let;[R2 F: [E', R2]];[R U R', D2]
+L;U;L;U;Lua;[R2 F': [E, R2]];[R D: [U, R' D' R]]
+L;V;L;V;Love;[U' E' R': [E, R2]];
+L;W;L;W;Lew;[M: [U R U', M2]];[R: [U, R2' D' R2 D R2']]
+L;X;L;X;Lux;[U E L': [E, L2]];[R2: [D', R' U' R]]
+M;A;M;A;Ma;;[R' U D: [U2, R D R']]
+M;B;M;B;Mob;[R' U' R U, M];
+M;C;M;C;Mac;;
+M;D;M;D;Mad;[L U L' U', M];[R' D': [R' D R, U']]
+M;E;M;Z;Maze;;[R U D': [U2, R' D' R]]
+M;F;M;F;Muff;[U' R U, M];
+M;G;M;G;Mug;[U': [R' F' R, S]];[D' R' U: [D, R U' R']]
+M;H;M;CH;Match;[U L' U', M];[R' F: [D, R U' R']]
+M;I;M;I;Mine;[M', R U R' U'];
+M;J;M;SH;Mash;[M', U R' U'];
+M;K;M;K;Make;[R: [M', U R U']];[U' R U: [D, R' U' R]]
+M;L;M;L;Mail;[M', U R U'];[R' U: [D', R U' R']]
+M;N;M;N;Man;[U L U', M];[R, U' L' U]
+M;O;M;O;Moe;[U': [R B R', S]];[D R' U: [D, R U' R']]
+M;P;M;P;Map;[U' R' U, M];[R U': [R' U R, D]]
+M;Q;M;Y;May;[M', L' U' L U];[F' L F, R']
+M;R;M;R;More;[M', U' L' U];[R' F: [D, R U R']]
+M;S;M;S;Moss;[U' D: [R' F' R, S]];[R' U: [D, R U' R']]
+M;T;M;T;Mat;[M', U' L U];[R, U' L U]
+M;U;M;U;Munt;[U: [S, R' F' R]];[D' R U': [R' U R, D']]
+M;V;M;V;Move;[U D': [S, R' F' R]];[U R' U': [R U R', D']]
+M;W;M;W;Mew;[U: [S, R B R']];[D R U': [R' U R, D']]
+M;X;M;X;Max;[U D: [S, R' F' R]];[R U': [R' U R, D']]
+N;A;N;A;Na;[L' U: [L2, S']];
+N;B;N;B;Nab;[R' E2 R, U'];[R': [U2, R' D' R]]
+N;C;N;C;Nice;;
+N;D;N;D;Nerd;[E': [L' E L, U]];[U' R': [R' D' R, U']]
+N;E;N;Z;Nuz;;[R2 U' R U: [U2, R' D' R]]
+N;F;N;F;Naff;[R' U' R': [R2, E']];
+N;G;N;G;Nug;[M', U L U'];[U' R' U2: [U, R D R']]
+N;H;N;CH;Nuch;[U' L: [L2, S']];[D R': [R' U R, D]]
+N;I;N;I;Nigh;[S U' R': [R2, E']];
+N;J;N;SH;Nish;[L U L', E];[U R2 U': [R U R', D']]
+N;K;N;K;Nake;[R' E': [E', R U' R']];[R' U: [U, R' D' R]]
+N;L;N;L;Nail;[L: [U, L E' L']];[R': [R' U R, D]]
+N;M;N;M;Name;[M, U L U'];[U' L' U, R]
+N;O;N;O;No;[U2: [M, U' L U]];[U' R' U': [R D' R', U']]
+N;P;N;P;Nap;[R U' R: [E', R2]];[D' R2': [U, R D R']]
+N;Q;N;Y;Ney;[L' Uw L: [E, L2]];
+N;R;N;R;Nar;[L U L', E'];[F, Lw U' Lw']
+N;S;N;S;Nose;[S' U' R: [E', R2]];[U' R' D: [R' D' R, U']]
+N;T;N;T;Not;;[U2 R: [U, R D' R']]
+N;U;N;U;Nu;[U' D R: [E', R2]];[U' R': [R' D R, U']]
+N;V;N;V;Nove;[U' R: [E', R2]];[D' U' R': [R' D R, U']]
+N;W;N;W;Now;[U' D' R: [E', R2]];[U R: [D', R U' R']]
+N;X;N;X;Nux;[L', D' M2 D];[R2 U: [D', R' U' R]]
+O;A;O;A;Oa;[U M' U: [U2, M']];[D' U': [U2, R D R']]
+O;B;O;B;Ob;M U' M' U' M U' M' U';[D': [R D R', U']]
+O;C;O;C;Orc;;
+O;D;O;D;Ode;M U M' U M U M' U;[D: [U', R' D R]]
+O;E;O;Z;Oz;;[D R' D: [D' R D R', F2]]
+O;F;O;F;Off;[U2: [U R U', M]];
+O;G;O;G;Ogg;[U M': [M U2 M, U']];[U: [D2', R U' R']]
+O;H;O;CH;Ouch;[U2: [U' L' U, M]];[D' R D': [D2, R' U' R]]
+O;I;O;I;Oi;[D L F' L': [L2, S']];
+O;J;O;SH;Osh;[U M: [Lw' E Lw, U']];[U' R' U': [U2, R D' R']]
+O;K;O;K;Oak;[U': [S', R B R']];[U': [D', R' U' R]]
+O;L;O;L;Old;[U M: [L E' L', U']];[U R' D': [D', R U' R']]
+O;M;O;M;Ohm;[U': [S, R B R']];[D R' U: [R U' R', D]]
+O;N;O;N;On;[U2: [U' L U, M]];[U' R' U': [U', R D' R']]
+O;P;O;P;Op;[U2: [U R' U', M]];[D' R D': [R' D R, U]]
+O;Q;O;Y;Oy;[D' R' F R': [S, R2]];[U D R': [R' D R, U']]
+O;R;O;R;Or;[U' M: [R' E R, U]];[F, Lw U2 Lw']
+O;S;O;S;Os;[U: [R' D R, S']];[U D: [D, R U' R']]
+O;T;O;T;Oat;[U' M: [R E' R', U]];
+O;U;O;U;Oui;[D': [R F R', S']];[Lw U' D': [R D R', U2]]
+O;V;O;V;Ov;[D' R' F': [E, R2]];[U' D' R': [R' D R, U]]
+O;W;O;W;Oww;;[U R: [D2', R U' R']]
+O;X;O;X;Ox;[D L F: [E', L2]];
+P;A;P;A;Pa;[R U': [R2, S]];[D U': [U2, R D' R']]
+P;B;P;B;Pub;[E: [R E' R', U']];[D: [R D' R', U']]
+P;C;P;C;Pick;;
+P;D;P;D;Pad;[L E2 L', U];[D': [U', R' D' R]]
+P;E;P;Z;Pez;;[R U: [U2, R' D' R]]
+P;F;P;F;Puff;[U R': [R2, S]];
+P;G;P;G;Peg;[M', U' R' U];[R U R' U': [R U R', D']]
+P;H;P;CH;Patch;[R U' R': [R2, E]];[D: [D2, R U R']]
+P;I;P;I;Pi;[R Uw' R: [R2, E']];
+P;J;P;SH;Pesh;;[U D R: [R D' R', U2]]
+P;K;P;K;Poke;[S U L: [L2, E]];
+P;L;P;L;Poll;[R' U' R, E];[D', R U R']
+P;M;P;M;Pim;[M, U' R' U];[R U': [D, R' U R]]
+P;N;P;N;Pan;[R U' R: [R2, E']];[D' R2': [R D R', U]]
+P;O;P;O;Poo;[U2: [M, U R' U']];[D' R D': [U, R' D R]]
+P;Q;P;Y;Pay;[S' U L': [E, L2]];[R U2: [R' D' R, U']]
+P;R;P;R;Pour;[R': [U', R' E R]];[D' R' U': [R U R', D']]
+P;S;P;S;Piss;[L E2: [L' U L, E']];[U R' U': [R' D R, U2]]
+P;T;P;T;Pet;[R' U' R, E'];[D': [R U R', D']]
+P;U;P;U;Peu;[U D' L: [L2, E]];[D' R2: [D', R' U' R]]
+P;V;P;V;Pave;U R U R U' R' U' R' U' R;[D' R D: [U, R' D' R]]
+P;W;P;W;Pew;[M2, U' R' U];
+P;X;P;X;Pax;[U L': [E, L2]];[R U' D: [R' U R, D2]]
+Q;A;Y;A;Ya;[U' M U': [U2, M']];
+Q;B;Y;B;Yib;[L F' L', S'];[R: [R D R', U]]
+Q;C;Y;C;Yack;;
+Q;D;Y;D;Yid;;[R U R': [R' D' R, U2]]
+Q;E;Y;Z;Yaz;;[Lw' U': [U2, R D' R']]
+Q;F;Y;F;Yaff;[S' U L: [L2, E']];
+Q;G;Y;G;Yang;[L F: [L' U L, E']];[R U R': [R' D' R, U']]
+Q;H;Y;CH;Yitch;[Rw' F': [F', Rw S Rw']];[R U2: [U', R' D R]]
+Q;I;Y;I;Yi;[M U': [U2, M']];
+Q;J;Y;SH;Yosh;[Rw' U': [U2, M']];[R: [R2' D R2 D' R2', U]]
+Q;K;Y;K;Yoke;[R' F R': [R2, S]];[U' R: [R U' R', D']]
+Q;L;Y;L;Yell;[R M U': [U2, M']];[U R' U': [U', R D R']]
+Q;M;Y;M;Yum;[L' U' L U, M'];[R', F' L F]
+Q;N;Y;N;Yin;[L' Uw L: [L2, E]];
+Q;O;Y;O;Yo;[D' R' F R': [R2, S]];[U D R': [U', R' D R]]
+Q;P;Y;P;Yop;[S' U L': [L2, E]];[R U2: [U', R' D' R]]
+Q;R;Y;R;Your;[S: [U', R' E R]];[L, U' R' U]
+Q;S;Y;S;Yes;[Lw' U L': [S', L2]];[U R': [U', R' D R]]
+Q;T;Y;T;Yeet;[S: [U', R E' R']];[R D': [R D R', U]]
+Q;U;Y;U;You;[L' F': [L2, E']];[R: [R D2 R', U]]
+Q;V;Y;V;You've;[L: [F', L S L']];[D' R: [R D2 R', U]]
+Q;W;Y;W;Yawn;[D: [L F' L', S]];[D R2: [D', R' U R]]
+Q;X;Y;X;Yux;[L F' L', S];[R2: [D', R' U R]]
+R;A;R;A;Ray;[U': [U2, R' E R]];[F: [R' D' R, U2]]
+R;B;R;B;Rob;[R' E R, U'];[R': [U', R' D' R]]
+R;C;R;C;Rock;;
+R;D;R;D;Rad;[U': [U', R' E R]];
+R;E;R;Z;Raze;;
+R;F;R;F;Raff;[E, R U' R'];
+R;G;R;G;Rag;[M': [M', U' L' U]];[R: [F, R' U R U']]
+R;H;R;CH;Rich;;[D R' U': [D', R U R']]
+R;I;R;I;Rice;[U' M: [U', R' E R]];
+R;J;R;SH;Rash;[Rw U R: [R2, E]];[R U' D' R2': [R D R', U]]
+R;K;R;K;Rake;[M' U R: [R2, E]];[R' U: [U2, R' D' R]]
+R;L;R;L;Rail;[U E R: [R2, S]];[R' U': [D', R U R']]
+R;M;R;M;Ram;[U' L' U, M'];[R' F: [R U R', D]]
+R;N;R;N;Run;[E', L U L'];[Lw U' Lw', F]
+R;O;R;O;Rowe;[U' M: [U, R' E R]];[Lw U2 Lw', F]
+R;P;R;P;Rip;[R': [R' E R, U']];[D' R' U': [D', R U R']]
+R;Q;R;Y;Roy;[S: [R' E R, U']];[U' R' U, L]
+R;S;R;S;Rest;[L, D M D'];[R' U': [D, R U R']]
+R;T;R;T;Rat;[Rw U L: [S', L2]];[U' R U': [D', R' U R]]
+R;U;R;U;Rue;[U R' F2: [R S R', F]];[U' R' U: [R U' R', D]]
+R;V;R;V;Rove;[U' E' R: [E', R2]];[R U' R': [R' D' R, U2]]
+R;W;R;W;Row;[M: [U' L' U, M2]];[R U' R': [D, R' U R]]
+R;X;R;X;Rax;[U E L: [E', L2]];[R2' D2: [R U' R', D]]
+S;A;S;A;Saah;[U: [U2, L E L']];[U2, R' D R]
+S;B;S;B;Sob;[U: [U, L' E' L]];[U, R' D R]
+S;C;S;C;Sic;;
+S;D;S;D;Sad;[L' E' L, U];[U', R' D R]
+S;E;S;Z;Size;;[R' D: [D' R D R', F2]]
+S;F;S;F;Safe;[U: [L F2 L', S]];
+S;G;S;G;Sag;[U: [L F L', S]];[U: [D, R U' R']]
+S;H;S;CH;Such;[S' U' R': [R2, E]];
+S;I;S;I;Sigh;[L F' L': [L2, S']];
+S;J;S;SH;Sash;[L F': [E, L2]];[U R U': [U2, R' D R]]
+S;K;S;K;Suck;[R' F R: [R2, S']];[U D': [D2', R U' R']]
+S;L;S;L;Saul;[M' U' L: [L2, E']];[U R' D': [D2, R U' R']]
+S;M;S;M;Som;[U' D: [S, R' F' R]];[R' U: [R U' R', D]]
+S;N;S;N;Sun;[S' U' R: [R2, E']];[U' R' D: [U', R' D' R]]
+S;O;S;O;Sow;[U: [S', R' D R]];[U D: [R U' R', D]]
+S;P;S;P;Soap;[L E2: [E', L' U L]];[U R' U': [U2, R' D R]]
+S;Q;S;Y;Say;[Lw' U L': [L2, S']];[U R': [R' D R, U']]
+S;R;S;R;Sir;[D M D', L];[R' U': [R U R', D]]
+S;T;S;T;Sit;[U S' U', L'];[D R': [F', R D' R' D]]
+S;U;S;U;Sue;[L F: [E', L2]];
+S;V;S;V;Save;[L' F' L, S];[U D R D': [U', R' D R]] 
+S;W;S;W;Saw;[U: [S', L B' L']];[U R: [D, R U' R']]
+S;X;S;X;Sex;;[D U R U': [F2, U R' U' R]]
+T;A;T;A;Ta;[U': [U2, R E' R']];[U': [U2, R D' R']]
+T;B;T;B;Tab;[R E' R', U'];[R D' R', U']
+T;C;T;C;Tic;;
+T;D;T;D;Ted;[U': [U', R E' R']];[U': [U', R D' R']]
+T;E;T;Z;Taze;;[R U D: [U2, R' D R]]
+T;F;T;F;Tiff;[R: [R E' R', U']];
+T;G;T;G;Tag;[U' M': [U', R E' R']];[Lw' U: [D, R U' R']]
+T;H;T;CH;Tech;[E, L' U L];[D: [D, R U R']]
+T;I;T;I;Tie;[Lw U': [U2, M']];
+T;J;T;SH;Tash;[Uw R': [R2, S]];[U R: [R D' R', U2]]
+T;K;T;K;Toke;[R' F: [R2, E']];[R D: [D2, R' U' R]]
+T;L;T;L;Tall;[R2 F: [R2, E']];[D2, R U R']
+T;M;T;M;Tim;[U' L U, M'];[U' L U, R]
+T;N;T;N;Tan;;[U2 R: [R D' R', U]]
+T;O;T;O;Toe;[U' M: [U, R E' R']];
+T;P;T;P;Tap;[E', R' U' R];[D': [D', R U R']]
+T;Q;T;Y;Toy;[S: [R E' R', U']];[R D': [U, R D R']]
+T;R;T;R;Tar;[Rw U L: [L2, S']];[U' R U': [R' U R, D']]
+T;S;T;S;Toss;[L', U S' U'];[D R': [R D' R' D, F']]
+T;U;T;U;Tube;[F: [E', L2]];[D' R D U': [R' U R, D2]]
+T;V;T;V;Tove;[Uw' R': [E, R2]];[D2 R: [R D' R', U']]
+T;W;T;W;Two;[M: [U' L U, M2]];[R D' R': [R' D R, U]]
+T;X;T;X;Tax;[Uw L': [E, L2]];
+U;A;U;A;Ua;[M', U2];[R F' R' U': [U2, R D R']]
+U;B;U;B;Ub;[U, M U2 M];[R F': [D, R' U' R]]
+U;C;U;C;Uce;;
+U;D;U;D;Udd;[R' F': [F2, R S R']];[R' U' R: [R' U R U', F2]]
+U;E;U;Z;Uz;;[R U D: [U2, R' D' R]]
+U;F;U;F;Uff;[U D' L: [L2, E']];
+U;G;U;G;Ugg;;[R: [F2', R' U R U']]
+U;H;U;CH;Uch;[U' D R': [R2, E]];
+U;I;U;I;Ui;[R F: [E, R2]];
+U;J;U;SH;Ush;[F': [R2, E]];[U' R2': [R U2 R', D]]
+U;K;U;K;Uck;[R' F': [R2, E]];[U' R': [U, R' D R]]
+U;L;U;L;Ul;[R2 F': [R2, E]];[R D: [R' D' R, U]]
+U;M;U;M;Um;[U: [R' F' R, S]];[D' R U': [D', R' U R]]
+U;N;U;N;Un;[U' D R: [R2, E']];[U' R': [U', R' D R]]
+U;O;U;O;Uoh;[D': [S', R F R']];[Lw U' D': [U2, R D R']]
+U;P;U;P;Up;[U D' L: [E, L2]];[D' R2: [R' U' R, D']]
+U;Q;U;Y;Suq;[L' F': [E', L2]];[R: [U, R D2 R']]
+U;R;U;R;Ur;[U R' F2: [F, R S R']];[U' R' U: [D, R U' R']]
+U;S;U;S;Use;[L F: [L2, E']];
+U;T;U;T;Ute;[F: [L2, E']];[D' R D U': [D2, R' U R]]
+U;V;U;V;Ubh;[R' F R: [S', R' F2 R]];[D, R2' U R2 U' R2']
+U;W;U;W;Uw;M2 U2 M U2 M;[U' R2: [R2' U R2 U' R2', D]]
+U;X;U;X;Ux;[L F': [L' S L, F2]];[R U' D2: [R' U R, D]]
+V;A;V;A;Va;[U': [R2, S]];[R2: [R2' D R2 D' R2', U]]
+V;B;V;B;Vibe;[R' U R': [R2, S]];[U, R' D R U' R D' R']
+V;C;V;C;Vac;;
+V;D;V;D;Vod;R' U' R U R U R U' R' U';[U', R' D R U' R D' R']
+V;E;V;Z;Vize;;[D' R U D: [U2, R' D' R]]
+V;F;V;F;Voff;U2' R U' R' U' R' U' R U R U';
+V;G;V;G;Vag;[U R' F' R': [R2, S]];
+V;H;V;CH;Vech;[U' R': [R2, E]];[R U' R': [U2, R' D R]]
+V;I;V;I;Vie;[S', R' F R];
+V;J;V;SH;Vish;[Uw' R: [R2, E']];[U' D' R2': [R U2 R', D]]
+V;K;V;K;Vik;;[D' R: [F2', R' U R U']]
+V;L;V;L;Vale;[U' E' R': [R2, E]];
+V;M;V;M;Vim;[U D': [R' F' R, S]];[U R' U': [D', R U R']]
+V;N;V;N;Vine;[U' R: [R2, E']];[D' U' R': [U', R' D R]]
+V;O;V;O;Vo;[D' R' F': [R2, E]];[U' D' R': [U, R' D R]]
+V;P;V;P;Vape;R' U R U R U R' U' R' U';[D' R D: [R' D' R, U]]
+V;Q;V;Y;Vy;[L: [L S L', F']];[D' R: [U, R D2 R']]
+V;R;V;R;Var;[U' E' R: [R2, E']];[R U' R': [U2, R' D' R]]
+V;S;V;S;Vase;[S, L' F' L];[U D R D': [R' D R, U']]
+V;T;V;T;Vet;[Uw' R': [R2, E]];[D2 R: [U', R D' R']]
+V;U;V;U;Vue;[R' F R: [R' F2 R, S']];[R2' U R2 U' R2', D]
+V;W;V;W;Vow;[U' R D R': [S', R2]];[R2' U R2 U' R2' , D']
+V;X;V;X;Vex;[U': [S', R2]];[R U' R' U: [R D' R', U2]]
+W;A;W;A;Waze;[U2, M];[R D' R': [U2, R' D R]]
+W;B;W;B;Web;[R U' R' U, M2];[R D' R' U R' D R, U']
+W;C;W;C;Wic;;
+W;D;W;D;Wed;D' R' U' R U R U R U' R' D U';[R D' R2': [R U' R', D]]
+W;E;W;Z;Waze;;[D R2: [R' U2 R, D']]
+W;F;W;F;Wife;[U' R U, M2];
+W;G;W;G;Weg;[D: [S', R F R']];[U R D': [R' D R, U']]
+W;H;W;CH;Witch;[U L' U', M2];[D R: [U', R D' R']]
+W;I;W;I;Wine;[D': [S', R' F R]];
+W;J;W;SH;Wash;[M: [M2, U R' U']];[U R U' D': [U2, R' D R]]
+W;K;W;K;Woke;[U': [R' B R, S]];
+W;L;W;L;Wall;[M: [M2, U R U']];[R: [R2' D' R2 D R2', U]]
+W;M;W;M;Wham;[U: [R B R', S]];[D R U': [D', R' U R]]
+W;N;W;N;Win;[U' D' R: [R2, E']];[U R: [R U' R', D']]
+W;O;W;O;Woah;;[U R: [R U' R', D2']]
+W;P;W;P;Whip;[U' R' U, M2];
+W;Q;W;Y;Why;[D: [S, L F' L']];[D R2: [R' U R, D']]
+W;R;W;R;War;[M: [M2, U' L' U]];[R U' R': [R' U R, D]]
+W;S;W;S;Was;[U: [L B' L', S']];[U R: [R U' R', D]]
+W;T;W;T;What;[M: [M2, U' L U]];[R D' R': [U, R' D R]]
+W;U;W;U;Wu;M' U2' M' U2' M2';[U' R2: [D, R2' U R2 U' R2']]
+W;V;W;V;Wave;[U' R D R': [R2, S']];[D', R2' U R2 U' R2']
+W;X;W;X;Wex;U' D R D R' D' R' D' R' D R U;[R U' R': [R' U R, D']]
+X;A;SH;A;Sha;[U: [L2, S']];[R' D' U' R2: [R' D R, U']]
+X;B;SH;B;Sheb;L U L' U' L' U' L' U L U;[R' B: [R U R', D']]
+X;C;SH;C;Shac;;
+X;D;SH;D;Shed;[L U' L: [L2, S']];[R' D' R2: [R' D R, U']]
+X;E;SH;Z;Shaz;;[R2 U: [R' U R, D']]
+X;F;SH;F;Shaf;[U L: [L2, E']];
+X;G;SH;G;Shag;[U' L F L: [L2, S']];[D U' R2': [R U R', D]]
+X;H;SH;CH;Shhh;U2' L' U L U L U L' U' L' U;[D R D: [R' D' R, U]]
+X;I;SH;I;She;[R': [R' S' R, F]];
+X;J;SH;SH;Sheesh;[Uw L: [L2, E']];[D U' R2': [R U2 R', D]]
+X;K;SH;K;Shake;[S', R F R'];[R2 D2: [D, R U R']]
+X;L;SH;L;Shell;[U E L': [L2, E]];[R2: [R' U' R, D']]
+X;M;SH;M;Shim;[U D: [R' F' R, S]];[R U': [D', R' U R]]
+X;N;SH;N;Shon;[D' M2 D, L'];[R2 U: [R' U' R, D']]
+X;O;SH;O;Show;[D L F: [L2, E']];
+X;P;SH;P;Shop;[U L': [L2, E]];[R U' D: [D2, R' U R]]
+X;Q;SH;Y;Shy;[S, L F' L'];[R2: [R' U R, D']]
+X;R;SH;R;Shore;[U E L: [L2, E']];[R2' D2: [D, R U' R']]
+X;S;SH;S;Sh;;[D U R U': [U R' U' R, F2]]
+X;T;SH;T;Shit;[Uw L': [L2, E]];
+X;U;SH;U;Shoe;[L F': [F2, L' S L]];[R U' D2: [D, R' U R]]
+X;V;SH;V;Shave;[U': [R2, S']];[R U' R' U: [U2, R D' R']]
+X;W;SH;W;Shaw;U' R' D' R D R D R D' R' D' U;[R U' R': [D', R' U R]]

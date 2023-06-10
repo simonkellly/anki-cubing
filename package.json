@@ -1,0 +1,12 @@
+{
+  "name": "anki-cubing",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "cubing": "^0.36.2",
+    "json-2-csv": "^4.0.0"
+  }
+}

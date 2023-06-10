@@ -1,0 +1,4970 @@
+[
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "B",
+    "memo": "Abs",
+    "edgeAlg": "[R2 U': [S, R2]]",
+    "cornerAlg": "[R' D' R U: [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "C",
+    "memo": "Ace",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "D",
+    "memo": "Add",
+    "edgeAlg": "[L2 U: [S', L2]]",
+    "cornerAlg": "[R' D' U': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "Z",
+    "memo": "Aze",
+    "edgeAlg": "",
+    "cornerAlg": "[Lw' U D': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "F",
+    "memo": "Aft",
+    "edgeAlg": "[R' U': [S, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "G",
+    "memo": "Age",
+    "edgeAlg": "[R' F': [R U R', E]]",
+    "cornerAlg": "[D U': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "CH",
+    "memo": "Ah",
+    "edgeAlg": "[L U: [S', L2]]",
+    "cornerAlg": "[D' U': [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "I",
+    "memo": "Aid",
+    "edgeAlg": "[U M U: [M', U2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "SH",
+    "memo": "Ash",
+    "edgeAlg": "[U: [L' E L, U2]]",
+    "cornerAlg": "[R' U D R2: [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "K",
+    "memo": "Ankh",
+    "edgeAlg": "[U': [R' E' R, U2]]",
+    "cornerAlg": "[U': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "L",
+    "memo": "Ale",
+    "edgeAlg": "[U: [L E' L', U2]]",
+    "cornerAlg": "[R' D' R, U2]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "M",
+    "memo": "Aim",
+    "edgeAlg": "",
+    "cornerAlg": "[R' U D: [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "N",
+    "memo": "Ann",
+    "edgeAlg": "[L' U: [S', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "O",
+    "memo": "Aow",
+    "edgeAlg": "[U M' U: [M', U2]]",
+    "cornerAlg": "[D' U': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "P",
+    "memo": "Ape",
+    "edgeAlg": "[R U': [S, R2]]",
+    "cornerAlg": "[D U': [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "Y",
+    "memo": "Ache",
+    "edgeAlg": "[U' M U': [M', U2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "R",
+    "memo": "Air",
+    "edgeAlg": "[U': [R' E R, U2]]",
+    "cornerAlg": "[F: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "S",
+    "memo": "Ass",
+    "edgeAlg": "[U: [L E L', U2]]",
+    "cornerAlg": "[R' D R, U2]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "T",
+    "memo": "At",
+    "edgeAlg": "[U': [R E' R', U2]]",
+    "cornerAlg": "[U': [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "U",
+    "memo": "Auf",
+    "edgeAlg": "[U2, M']",
+    "cornerAlg": "[R F' R' U': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "V",
+    "memo": "Ave",
+    "edgeAlg": "[U': [S, R2]]",
+    "cornerAlg": "[R2: [U, R2' D R2 D' R2']]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "W",
+    "memo": "Awe",
+    "edgeAlg": "[M, U2]",
+    "cornerAlg": "[R D' R': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "A",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "A",
+    "secondAlternateLetter": "X",
+    "memo": "Axe",
+    "edgeAlg": "[U: [S', L2]]",
+    "cornerAlg": "[R' D' U' R2: [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "A",
+    "memo": "Baa",
+    "edgeAlg": "[R2 U': [R2, S]]",
+    "cornerAlg": "[R' D' R U: [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "C",
+    "memo": "Back",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "D",
+    "memo": "Bed",
+    "edgeAlg": "[M2 U: [M, U2]]",
+    "cornerAlg": "[R' D' R U: [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "Z",
+    "memo": "Buzz",
+    "edgeAlg": "",
+    "cornerAlg": "[R: [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "F",
+    "memo": "Buff",
+    "edgeAlg": "[U: [L' E2 L, U]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "G",
+    "memo": "Bug",
+    "edgeAlg": "[M', R U' R' U]",
+    "cornerAlg": "[D': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "CH",
+    "memo": "Bah",
+    "edgeAlg": "[U', R E2 R']",
+    "cornerAlg": "[D: [R' D' R, U]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "I",
+    "memo": "Brie",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "SH",
+    "memo": "Bush",
+    "edgeAlg": "[U: [L' E L, U]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "K",
+    "memo": "Bike",
+    "edgeAlg": "[U', R' E' R]",
+    "cornerAlg": "[U', R D R']"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "L",
+    "memo": "Bell",
+    "edgeAlg": "[U: [L E' L', U]]",
+    "cornerAlg": "[R' D' R, U]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "M",
+    "memo": "Bum",
+    "edgeAlg": "[M, R' U' R U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "N",
+    "memo": "Ben",
+    "edgeAlg": "[U', R' E2 R]",
+    "cornerAlg": "[R': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "O",
+    "memo": "Boo",
+    "edgeAlg": "U M U M' U M U M'",
+    "cornerAlg": "[D': [U', R D R']]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "P",
+    "memo": "Bop",
+    "edgeAlg": "[E: [U', R E' R']]",
+    "cornerAlg": "[D: [U', R D' R']]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "Y",
+    "memo": "Bye",
+    "edgeAlg": "[S', L F' L']",
+    "cornerAlg": "[R: [U, R D R']]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "R",
+    "memo": "Bar",
+    "edgeAlg": "[U', R' E R]",
+    "cornerAlg": "[R': [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "S",
+    "memo": "Best",
+    "edgeAlg": "[U: [L' E' L, U]]",
+    "cornerAlg": "[R' D R, U]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "T",
+    "memo": "Bet",
+    "edgeAlg": "[U', R E' R']",
+    "cornerAlg": "[U', R D' R']"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "U",
+    "memo": "Brute",
+    "edgeAlg": "[M U2 M, U]",
+    "cornerAlg": "[R F': [R' U' R, D]]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "V",
+    "memo": "Bruv",
+    "edgeAlg": "[R' U R': [S, R2]]",
+    "cornerAlg": "[R' D R U' R D' R', U]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "W",
+    "memo": "Bow",
+    "edgeAlg": "[M2, R U' R' U]",
+    "cornerAlg": "[U', R D' R' U R' D R]"
+  },
+  {
+    "firstMainLetter": "B",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "B",
+    "secondAlternateLetter": "X",
+    "memo": "Box",
+    "edgeAlg": "U' L' U' L U L U L U' L'",
+    "cornerAlg": "[R' B: [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "A",
+    "memo": "Cha",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "B",
+    "memo": "Cub",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "D",
+    "memo": "Cod",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "Z",
+    "memo": "Czech",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "F",
+    "memo": "Cough",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "G",
+    "memo": "Cog",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "CH",
+    "memo": "Chj",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "I",
+    "memo": "Cig",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "SH",
+    "memo": "Cash",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "K",
+    "memo": "Cock",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "L",
+    "memo": "Call",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "M",
+    "memo": "Come",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "N",
+    "memo": "Can",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "O",
+    "memo": "Cool",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "P",
+    "memo": "Cup",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "Y",
+    "memo": "Coy",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "R",
+    "memo": "Car",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "S",
+    "memo": "Cuss",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "T",
+    "memo": "Cut",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "U",
+    "memo": "Cue",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "V",
+    "memo": "Cov",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "W",
+    "memo": "Cow",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "C",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "C",
+    "secondAlternateLetter": "X",
+    "memo": "Crux",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "A",
+    "memo": "Dad",
+    "edgeAlg": "[L2 U: [L2, S']]",
+    "cornerAlg": "[R' D' U': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "B",
+    "memo": "Dab",
+    "edgeAlg": "[M2 U: [U2, M]]",
+    "cornerAlg": "[R' D' R U: [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "C",
+    "memo": "Dice",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "Z",
+    "memo": "Deez",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "F",
+    "memo": "Diff",
+    "edgeAlg": "[U, L' E2 L]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "G",
+    "memo": "Dog",
+    "edgeAlg": "[M', L' U L U']",
+    "cornerAlg": "[D': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "CH",
+    "memo": "Doh",
+    "edgeAlg": "[U': [R E2 R', U']]",
+    "cornerAlg": "[D: [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "I",
+    "memo": "Die",
+    "edgeAlg": "[S, R' F R]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "SH",
+    "memo": "Dash",
+    "edgeAlg": "[U, L' E L]",
+    "cornerAlg": "[U' R': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "K",
+    "memo": "Dink",
+    "edgeAlg": "[U': [R' E' R, U']]",
+    "cornerAlg": "[U': [R D R', U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "L",
+    "memo": "Deal",
+    "edgeAlg": "[U, L E' L']",
+    "cornerAlg": "[R' D' R, U']"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "M",
+    "memo": "Dumb",
+    "edgeAlg": "[M, L U L' U']",
+    "cornerAlg": "[R' D': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "N",
+    "memo": "Dan",
+    "edgeAlg": "[E': [U, L' E L]]",
+    "cornerAlg": "[U' R': [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "O",
+    "memo": "Do",
+    "edgeAlg": "U' M U' M' U' M U' M'",
+    "cornerAlg": "[D: [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "P",
+    "memo": "Derp",
+    "edgeAlg": "[U, L E2 L']",
+    "cornerAlg": "[D': [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "Y",
+    "memo": "Daque",
+    "edgeAlg": "",
+    "cornerAlg": "[R U R': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "R",
+    "memo": "Dare",
+    "edgeAlg": "[U': [R' E R, U']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "S",
+    "memo": "Doss",
+    "edgeAlg": "[U, L' E' L]",
+    "cornerAlg": "[R' D R, U']"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "T",
+    "memo": "Dot",
+    "edgeAlg": "[U': [R E' R', U']]",
+    "cornerAlg": "[U': [R D' R', U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "U",
+    "memo": "Due",
+    "edgeAlg": "[R' F': [R S R', F2]]",
+    "cornerAlg": "[R' U' R: [F2, R' U R U']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "V",
+    "memo": "Dive",
+    "edgeAlg": "U R U R' U' R' U' R' U R",
+    "cornerAlg": "[R' D R U' R D' R', U']"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "W",
+    "memo": "Down",
+    "edgeAlg": "U D' R U R' U' R' U' R' U R D",
+    "cornerAlg": "[R D' R2': [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "D",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "D",
+    "secondAlternateLetter": "X",
+    "memo": "Dox",
+    "edgeAlg": "[L U' L: [S', L2]]",
+    "cornerAlg": "[R' D' R2: [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "A",
+    "memo": "Za",
+    "edgeAlg": "",
+    "cornerAlg": "[Lw' U D': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "B",
+    "memo": "Zub",
+    "edgeAlg": "",
+    "cornerAlg": "[R: [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "C",
+    "memo": "Zucc",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "D",
+    "memo": "Zed",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "F",
+    "memo": "Ziff",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "G",
+    "memo": "Zig",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R' D: [F2, D' R D R']]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "CH",
+    "memo": "Zah",
+    "edgeAlg": "",
+    "cornerAlg": "[R U: [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "I",
+    "memo": "Zie",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "SH",
+    "memo": "Zsh",
+    "edgeAlg": "",
+    "cornerAlg": "[R': [U', R2 D' R2 D R2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "K",
+    "memo": "Zeek",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "L",
+    "memo": "Zul",
+    "edgeAlg": "",
+    "cornerAlg": "[D R U: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "M",
+    "memo": "Zum",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "N",
+    "memo": "Zan",
+    "edgeAlg": "",
+    "cornerAlg": "[R2 U' R U: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "O",
+    "memo": "Zoe",
+    "edgeAlg": "",
+    "cornerAlg": "[D R' D: [F2, D' R D R']]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "P",
+    "memo": "Zop",
+    "edgeAlg": "",
+    "cornerAlg": "[R U: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "Y",
+    "memo": "Zayn",
+    "edgeAlg": "",
+    "cornerAlg": "[Lw' U': [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "R",
+    "memo": "Zar",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "S",
+    "memo": "Zest",
+    "edgeAlg": "",
+    "cornerAlg": "[R' D: [F2, D' R D R']]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "T",
+    "memo": "Zut",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D: [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "U",
+    "memo": "Zeus",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "V",
+    "memo": "Ziv",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R U D: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "W",
+    "memo": "Zew",
+    "edgeAlg": "",
+    "cornerAlg": "[D R2: [D', R' U2 R]]"
+  },
+  {
+    "firstMainLetter": "E",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "Z",
+    "secondAlternateLetter": "X",
+    "memo": "Zex",
+    "edgeAlg": "",
+    "cornerAlg": "[R2 U: [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "A",
+    "memo": "Faye",
+    "edgeAlg": "[R' U': [R2, S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "B",
+    "memo": "Fob",
+    "edgeAlg": "[U: [U, L' E2 L]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "C",
+    "memo": "Face",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "D",
+    "memo": "Fad",
+    "edgeAlg": "[L' E2 L, U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "Z",
+    "memo": "Fez",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "G",
+    "memo": "Fag",
+    "edgeAlg": "[M', U' R U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "CH",
+    "memo": "Fetch",
+    "edgeAlg": "[R' U' R: [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "I",
+    "memo": "Fie",
+    "edgeAlg": "[R' U' E' R: [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "SH",
+    "memo": "Fish",
+    "edgeAlg": "[R U' R', E']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "K",
+    "memo": "Fuck",
+    "edgeAlg": "[R' Uw' R: [R2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "L",
+    "memo": "Fall",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "M",
+    "memo": "Fam",
+    "edgeAlg": "[M, U' R U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "N",
+    "memo": "Fin",
+    "edgeAlg": "[R' U' R': [E', R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "O",
+    "memo": "Foe",
+    "edgeAlg": "[U2: [M, U R U']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "P",
+    "memo": "Fap",
+    "edgeAlg": "[U R': [S, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "Y",
+    "memo": "Fly",
+    "edgeAlg": "[S' U L: [E', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "R",
+    "memo": "Fur",
+    "edgeAlg": "[R U' R', E]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "S",
+    "memo": "Fuss",
+    "edgeAlg": "[U: [S, L F2 L']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "T",
+    "memo": "Foot",
+    "edgeAlg": "[R: [U', R E' R']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "U",
+    "memo": "Fue",
+    "edgeAlg": "[U D' L: [E', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "V",
+    "memo": "Fiv",
+    "edgeAlg": "U R' U' R' U R U R U R' U2",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "W",
+    "memo": "Faw",
+    "edgeAlg": "[M2, U' R U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "F",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "F",
+    "secondAlternateLetter": "X",
+    "memo": "Fox",
+    "edgeAlg": "[U L: [E', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "A",
+    "memo": "Gaa",
+    "edgeAlg": "[R' F': [E, R U R']]",
+    "cornerAlg": "[D U': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "B",
+    "memo": "Gab",
+    "edgeAlg": "[R U' R' U, M']",
+    "cornerAlg": "[D': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "C",
+    "memo": "Gec",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "D",
+    "memo": "God",
+    "edgeAlg": "[L' U L U', M']",
+    "cornerAlg": "[D': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "Z",
+    "memo": "Guz",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R' D: [D' R D R', F2]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "F",
+    "memo": "Guff",
+    "edgeAlg": "[U' R U, M']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "CH",
+    "memo": "Gooch",
+    "edgeAlg": "[U L' U', M']",
+    "cornerAlg": "[R': [F', R D' R' D]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "I",
+    "memo": "Git",
+    "edgeAlg": "[R' F': [E, R U' R']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "SH",
+    "memo": "Gosh",
+    "edgeAlg": "[M': [U R' U', M']]",
+    "cornerAlg": "[U' R' U: [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "K",
+    "memo": "Geek",
+    "edgeAlg": "[U': [S', R' F' R]]",
+    "cornerAlg": "[U: [R U' R', D']]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "L",
+    "memo": "Gul",
+    "edgeAlg": "[M, D R' D']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "M",
+    "memo": "Gum",
+    "edgeAlg": "[U': [S, R' F' R]]",
+    "cornerAlg": "[D' R' U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "N",
+    "memo": "Gun",
+    "edgeAlg": "[U L U', M']",
+    "cornerAlg": "[U' R' U2: [R D R', U]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "O",
+    "memo": "Go",
+    "edgeAlg": "[U M': [U', M U2 M]]",
+    "cornerAlg": "[U: [R U' R', D2']]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "P",
+    "memo": "Gap",
+    "edgeAlg": "[U' R' U, M']",
+    "cornerAlg": "[R U R' U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "Y",
+    "memo": "Gay",
+    "edgeAlg": "[L F: [E', L' U L]]",
+    "cornerAlg": "[R U R': [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "R",
+    "memo": "Gear",
+    "edgeAlg": "[M': [U' L' U, M']]",
+    "cornerAlg": "[R: [R' U R U', F]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "S",
+    "memo": "Gus",
+    "edgeAlg": "[U: [S, L F L']]",
+    "cornerAlg": "[U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "T",
+    "memo": "Gut",
+    "edgeAlg": "[U' M': [R E' R', U']]",
+    "cornerAlg": "[Lw' U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "U",
+    "memo": "Gucc",
+    "edgeAlg": "",
+    "cornerAlg": "[R: [R' U R U', F2']]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "V",
+    "memo": "Gov",
+    "edgeAlg": "[U R' F' R': [S, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "W",
+    "memo": "Gaw",
+    "edgeAlg": "[D: [R F R', S']]",
+    "cornerAlg": "[U R D': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "G",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "G",
+    "secondAlternateLetter": "X",
+    "memo": "Gox",
+    "edgeAlg": "[U' L F L: [S', L2]]",
+    "cornerAlg": "[D U' R2': [D, R U R']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "A",
+    "memo": "Ha",
+    "edgeAlg": "[L U: [L2, S']]",
+    "cornerAlg": "[D' U': [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "B",
+    "memo": "Hob",
+    "edgeAlg": "[R E2 R', U']",
+    "cornerAlg": "[D: [U, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "C",
+    "memo": "Hack",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "D",
+    "memo": "Hood",
+    "edgeAlg": "[U': [U', R E2 R']]",
+    "cornerAlg": "[D: [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "Z",
+    "memo": "Haze",
+    "edgeAlg": "",
+    "cornerAlg": "[R U: [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "F",
+    "memo": "Hoof",
+    "edgeAlg": "[R' U' R: [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "G",
+    "memo": "Hug",
+    "edgeAlg": "[M', U L' U']",
+    "cornerAlg": "[R': [R D' R' D, F']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "I",
+    "memo": "Hill",
+    "edgeAlg": "[S U' R': [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "SH",
+    "memo": "Hush",
+    "edgeAlg": "[L': [U, L' E L]]",
+    "cornerAlg": "[U R U D: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "K",
+    "memo": "Hulk",
+    "edgeAlg": "[U': [S', R' F2 R]]",
+    "cornerAlg": "[R D2: [R' U' R, D']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "L",
+    "memo": "Hell",
+    "edgeAlg": "[L' U L, E']",
+    "cornerAlg": "[D, R U R']"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "M",
+    "memo": "Hoe",
+    "edgeAlg": "[M, U L' U']",
+    "cornerAlg": "[R' F: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "N",
+    "memo": "Han",
+    "edgeAlg": "[U' L: [S', L2]]",
+    "cornerAlg": "[D R': [D, R' U R]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "O",
+    "memo": "Hoe",
+    "edgeAlg": "[U2: [M, U' L' U]]",
+    "cornerAlg": "[D' R D': [R' U' R, D2]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "P",
+    "memo": "Hop",
+    "edgeAlg": "[R U' R': [E, R2]]",
+    "cornerAlg": "[D: [R U R', D2]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "Y",
+    "memo": "Hey",
+    "edgeAlg": "[Rw' F': [Rw S Rw', F']]",
+    "cornerAlg": "[R U2: [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "R",
+    "memo": "Her",
+    "edgeAlg": "",
+    "cornerAlg": "[D R' U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "S",
+    "memo": "Hose",
+    "edgeAlg": "[S' U' R': [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "T",
+    "memo": "Hut",
+    "edgeAlg": "[L' U L, E]",
+    "cornerAlg": "[D: [R U R', D]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "U",
+    "memo": "Hue",
+    "edgeAlg": "[U' D R': [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "V",
+    "memo": "Hive",
+    "edgeAlg": "[U' R': [E, R2]]",
+    "cornerAlg": "[R U' R': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "W",
+    "memo": "How",
+    "edgeAlg": "[M2, U L' U']",
+    "cornerAlg": "[D R: [R D' R', U']]"
+  },
+  {
+    "firstMainLetter": "H",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "CH",
+    "secondAlternateLetter": "X",
+    "memo": "Chex",
+    "edgeAlg": "U' L U L U' L' U' L' U' L U2",
+    "cornerAlg": "[D R D: [U, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "A",
+    "memo": "Ian",
+    "edgeAlg": "[U M U: [U2, M']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "B",
+    "memo": "Ib",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "C",
+    "memo": "Ice",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "D",
+    "memo": "Id",
+    "edgeAlg": "[R' F R, S]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "Z",
+    "memo": "Ize",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "F",
+    "memo": "If",
+    "edgeAlg": "[R' U' E' R: [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "G",
+    "memo": "Ig",
+    "edgeAlg": "[R' F': [R U' R', E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "CH",
+    "memo": "Itch",
+    "edgeAlg": "[S U' R': [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "SH",
+    "memo": "Ish",
+    "edgeAlg": "[S': [U, L' E L]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "K",
+    "memo": "Ick",
+    "edgeAlg": "[Rw U' R: [S, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "L",
+    "memo": "Ill",
+    "edgeAlg": "[S': [U, L E' L']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "M",
+    "memo": "Im",
+    "edgeAlg": "[R U R' U', M']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "N",
+    "memo": "In",
+    "edgeAlg": "[S U' R': [E', R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "O",
+    "memo": "Io",
+    "edgeAlg": "[D L F' L': [S', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "P",
+    "memo": "Ip",
+    "edgeAlg": "[R Uw' R: [E', R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "Y",
+    "memo": "Iye",
+    "edgeAlg": "[M U': [M', U2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "R",
+    "memo": "Iron",
+    "edgeAlg": "[U' M: [R' E R, U']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "S",
+    "memo": "Is",
+    "edgeAlg": "[L F' L': [S', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "T",
+    "memo": "It",
+    "edgeAlg": "[Lw U': [M', U2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "U",
+    "memo": "eeiu",
+    "edgeAlg": "[R F: [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "V",
+    "memo": "Ivy",
+    "edgeAlg": "[R' F R, S']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "W",
+    "memo": "Iwi",
+    "edgeAlg": "[D': [R' F R, S']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "I",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "I",
+    "secondAlternateLetter": "X",
+    "memo": "Ix",
+    "edgeAlg": "[R': [F, R' S' R]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "A",
+    "memo": "Ja",
+    "edgeAlg": "[U: [U2, L' E L]]",
+    "cornerAlg": "[R' U D R2: [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "B",
+    "memo": "Jab",
+    "edgeAlg": "[U: [U, L' E L]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "C",
+    "memo": "Juice",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "D",
+    "memo": "Jud",
+    "edgeAlg": "[L' E L, U]",
+    "cornerAlg": "[U' R': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "Z",
+    "memo": "Jizz",
+    "edgeAlg": "",
+    "cornerAlg": "[R': [R2 D' R2 D R2, U']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "F",
+    "memo": "Jeff",
+    "edgeAlg": "[E', R U' R']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "G",
+    "memo": "Jig",
+    "edgeAlg": "[M': [M', U R' U']]",
+    "cornerAlg": "[U' R' U: [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "CH",
+    "memo": "Juh",
+    "edgeAlg": "[L': [L' E L, U]]",
+    "cornerAlg": "[U R U D: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "I",
+    "memo": "Jim",
+    "edgeAlg": "[S': [L' E L, U]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "K",
+    "memo": "Jake",
+    "edgeAlg": "[R, U' S U]",
+    "cornerAlg": "[U R U': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "L",
+    "memo": "Jail",
+    "edgeAlg": "[M' U' R: [S, R2]]",
+    "cornerAlg": "[R: [U', R2' D R2 D' R2']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "M",
+    "memo": "Jim",
+    "edgeAlg": "[U R' U', M']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "N",
+    "memo": "Jan",
+    "edgeAlg": "[E, L U L']",
+    "cornerAlg": "[U R2 U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "O",
+    "memo": "Joe",
+    "edgeAlg": "[U M: [U', Lw' E Lw]]",
+    "cornerAlg": "[U' R' U': [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "P",
+    "memo": "Jap",
+    "edgeAlg": "",
+    "cornerAlg": "[U D R: [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "Y",
+    "memo": "Jay",
+    "edgeAlg": "[Rw' U': [M', U2]]",
+    "cornerAlg": "[R: [U, R2' D R2 D' R2']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "R",
+    "memo": "Jar",
+    "edgeAlg": "[Rw U R: [E, R2]]",
+    "cornerAlg": "[R U' D' R2': [U, R D R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "S",
+    "memo": "Jess",
+    "edgeAlg": "[L F': [L2, E]]",
+    "cornerAlg": "[U R U': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "T",
+    "memo": "Jet",
+    "edgeAlg": "[Uw R': [S, R2]]",
+    "cornerAlg": "[U R: [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "U",
+    "memo": "Ju",
+    "edgeAlg": "[F': [E, R2]]",
+    "cornerAlg": "[U' R2': [D, R U2 R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "V",
+    "memo": "Jive",
+    "edgeAlg": "[Uw' R: [E', R2]]",
+    "cornerAlg": "[U' D' R2': [D, R U2 R']]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "W",
+    "memo": "Jaw",
+    "edgeAlg": "[M: [U R' U', M2]]",
+    "cornerAlg": "[U R U' D': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "J",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "J",
+    "secondAlternateLetter": "X",
+    "memo": "Jax",
+    "edgeAlg": "[Uw L: [E', L2]]",
+    "cornerAlg": "[D U' R2': [D, R U2 R']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "A",
+    "memo": "Ka",
+    "edgeAlg": "[U': [U2, R' E' R]]",
+    "cornerAlg": "[U': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "B",
+    "memo": "Kib",
+    "edgeAlg": "[R' E' R, U']",
+    "cornerAlg": "[R D R', U']"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "C",
+    "memo": "Kic",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "D",
+    "memo": "Kid",
+    "edgeAlg": "[U': [U', R' E' R]]",
+    "cornerAlg": "[U': [U', R D R']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "Z",
+    "memo": "Kaze",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "F",
+    "memo": "Keef",
+    "edgeAlg": "[R' Uw' R: [E', R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "G",
+    "memo": "Keg",
+    "edgeAlg": "[U': [R' F' R, S']]",
+    "cornerAlg": "[U: [D', R U' R']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "CH",
+    "memo": "Kich",
+    "edgeAlg": "[U': [R' F2 R, S']]",
+    "cornerAlg": "[R D2: [D', R' U' R]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "I",
+    "memo": "Ki",
+    "edgeAlg": "[Rw U' R: [R2, S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "SH",
+    "memo": "Kush",
+    "edgeAlg": "[U' S U, R]",
+    "cornerAlg": "[U R U': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "L",
+    "memo": "Kill",
+    "edgeAlg": "[D' M D, R']",
+    "cornerAlg": "[R D': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "M",
+    "memo": "Kim",
+    "edgeAlg": "[R: [U R U', M']]",
+    "cornerAlg": "[U' R U : [R' U' R , D]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "N",
+    "memo": "Ken",
+    "edgeAlg": "[R' E': [R U' R', E']]",
+    "cornerAlg": "[R' U: [R' D' R, U]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "O",
+    "memo": "Koe",
+    "edgeAlg": "[U': [R B R', S']]",
+    "cornerAlg": "[U': [R' U' R, D']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "P",
+    "memo": "Kip",
+    "edgeAlg": "[S U L: [E, L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "Y",
+    "memo": "Kay",
+    "edgeAlg": "[R' F R': [S, R2]]",
+    "cornerAlg": "[U' R : [D' , R U' R']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "R",
+    "memo": "Kurk",
+    "edgeAlg": "[M' U R: [E, R2]]",
+    "cornerAlg": "[R' U: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "S",
+    "memo": "Kiss",
+    "edgeAlg": "[R' F R: [S', R2]]",
+    "cornerAlg": "[U D': [R U' R', D2']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "T",
+    "memo": "Kit",
+    "edgeAlg": "[R' F: [E', R2]]",
+    "cornerAlg": "[R D : [R' U' R , D2]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "U",
+    "memo": "Kung",
+    "edgeAlg": "[R' F': [E, R2]]",
+    "cornerAlg": "[U' R': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "V",
+    "memo": "Kev",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R: [R' U R U', F2']]"
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "W",
+    "memo": "Kew",
+    "edgeAlg": "[U': [S, R' B R]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "K",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "K",
+    "secondAlternateLetter": "X",
+    "memo": "Kax",
+    "edgeAlg": "[R F R', S']",
+    "cornerAlg": "[R2 D2 :[R U R', D]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "A",
+    "memo": "La",
+    "edgeAlg": "[U: [U2, L E' L']]",
+    "cornerAlg": "[U2, R' D' R]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "B",
+    "memo": "Lab",
+    "edgeAlg": "[U: [U, L E' L']]",
+    "cornerAlg": "[U, R' D' R]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "C",
+    "memo": "Lick",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "D",
+    "memo": "Lud",
+    "edgeAlg": "[L E' L', U]",
+    "cornerAlg": "[U', R' D' R]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "Z",
+    "memo": "Lezz",
+    "edgeAlg": "",
+    "cornerAlg": "[D R U: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "F",
+    "memo": "Laugh",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "G",
+    "memo": "Lag",
+    "edgeAlg": "[D R' D', M]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "CH",
+    "memo": "Latch",
+    "edgeAlg": "[E', L' U L]",
+    "cornerAlg": "[R U R', D]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "I",
+    "memo": "Lie",
+    "edgeAlg": "[S': [L E' L', U]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "SH",
+    "memo": "Lash",
+    "edgeAlg": "[M' U' R: [R2, S]]",
+    "cornerAlg": "[R: [R2' D R2 D' R2', U']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "K",
+    "memo": "Lock",
+    "edgeAlg": "[R', D' M D]",
+    "cornerAlg": "[R D': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "M",
+    "memo": "Limb",
+    "edgeAlg": "[U R U', M']",
+    "cornerAlg": "[R' U: [R U' R', D']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "N",
+    "memo": "Lan",
+    "edgeAlg": "[L: [L E' L', U]]",
+    "cornerAlg": "[R': [D, R' U R]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "O",
+    "memo": "Loo",
+    "edgeAlg": "[U M: [U', L E' L']]",
+    "cornerAlg": "[U R' D': [R U' R', D']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "P",
+    "memo": "Lip",
+    "edgeAlg": "[E, R' U' R]",
+    "cornerAlg": "[R U R', D']"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "Y",
+    "memo": "Lay",
+    "edgeAlg": "[R M U': [M', U2]]",
+    "cornerAlg": "[U R' U': [R D R', U']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "R",
+    "memo": "Lore",
+    "edgeAlg": "[U E R: [S, R2]]",
+    "cornerAlg": "[R' U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "S",
+    "memo": "Lass",
+    "edgeAlg": "[M' U' L: [E', L2]]",
+    "cornerAlg": "[U R' D': [R U' R', D2]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "T",
+    "memo": "Let",
+    "edgeAlg": "[R2 F: [E', R2]]",
+    "cornerAlg": "[R U R', D2]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "U",
+    "memo": "Lua",
+    "edgeAlg": "[R2 F': [E, R2]]",
+    "cornerAlg": "[R D: [U, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "V",
+    "memo": "Love",
+    "edgeAlg": "[U' E' R': [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "W",
+    "memo": "Lew",
+    "edgeAlg": "[M: [U R U', M2]]",
+    "cornerAlg": "[R: [U, R2' D' R2 D R2']]"
+  },
+  {
+    "firstMainLetter": "L",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "L",
+    "secondAlternateLetter": "X",
+    "memo": "Lux",
+    "edgeAlg": "[U E L': [E, L2]]",
+    "cornerAlg": "[R2: [D', R' U' R]]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "A",
+    "memo": "Ma",
+    "edgeAlg": "",
+    "cornerAlg": "[R' U D: [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "B",
+    "memo": "Mob",
+    "edgeAlg": "[R' U' R U, M]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "C",
+    "memo": "Mac",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "D",
+    "memo": "Mad",
+    "edgeAlg": "[L U L' U', M]",
+    "cornerAlg": "[R' D': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "Z",
+    "memo": "Maze",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "F",
+    "memo": "Muff",
+    "edgeAlg": "[U' R U, M]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "G",
+    "memo": "Mug",
+    "edgeAlg": "[U': [R' F' R, S]]",
+    "cornerAlg": "[D' R' U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "CH",
+    "memo": "Match",
+    "edgeAlg": "[U L' U', M]",
+    "cornerAlg": "[R' F: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "I",
+    "memo": "Mine",
+    "edgeAlg": "[M', R U R' U']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "SH",
+    "memo": "Mash",
+    "edgeAlg": "[M', U R' U']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "K",
+    "memo": "Make",
+    "edgeAlg": "[R: [M', U R U']]",
+    "cornerAlg": "[U' R U: [D, R' U' R]]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "L",
+    "memo": "Mail",
+    "edgeAlg": "[M', U R U']",
+    "cornerAlg": "[R' U: [D', R U' R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "N",
+    "memo": "Man",
+    "edgeAlg": "[U L U', M]",
+    "cornerAlg": "[R, U' L' U]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "O",
+    "memo": "Moe",
+    "edgeAlg": "[U': [R B R', S]]",
+    "cornerAlg": "[D R' U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "P",
+    "memo": "Map",
+    "edgeAlg": "[U' R' U, M]",
+    "cornerAlg": "[R U': [R' U R, D]]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "Y",
+    "memo": "May",
+    "edgeAlg": "[M', L' U' L U]",
+    "cornerAlg": "[F' L F, R']"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "R",
+    "memo": "More",
+    "edgeAlg": "[M', U' L' U]",
+    "cornerAlg": "[R' F: [D, R U R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "S",
+    "memo": "Moss",
+    "edgeAlg": "[U' D: [R' F' R, S]]",
+    "cornerAlg": "[R' U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "T",
+    "memo": "Mat",
+    "edgeAlg": "[M', U' L U]",
+    "cornerAlg": "[R, U' L U]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "U",
+    "memo": "Munt",
+    "edgeAlg": "[U: [S, R' F' R]]",
+    "cornerAlg": "[D' R U': [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "V",
+    "memo": "Move",
+    "edgeAlg": "[U D': [S, R' F' R]]",
+    "cornerAlg": "[U R' U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "W",
+    "memo": "Mew",
+    "edgeAlg": "[U: [S, R B R']]",
+    "cornerAlg": "[D R U': [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "M",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "M",
+    "secondAlternateLetter": "X",
+    "memo": "Max",
+    "edgeAlg": "[U D: [S, R' F' R]]",
+    "cornerAlg": "[R U': [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "A",
+    "memo": "Na",
+    "edgeAlg": "[L' U: [L2, S']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "B",
+    "memo": "Nab",
+    "edgeAlg": "[R' E2 R, U']",
+    "cornerAlg": "[R': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "C",
+    "memo": "Nice",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "D",
+    "memo": "Nerd",
+    "edgeAlg": "[E': [L' E L, U]]",
+    "cornerAlg": "[U' R': [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "Z",
+    "memo": "Nuz",
+    "edgeAlg": "",
+    "cornerAlg": "[R2 U' R U: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "F",
+    "memo": "Naff",
+    "edgeAlg": "[R' U' R': [R2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "G",
+    "memo": "Nug",
+    "edgeAlg": "[M', U L U']",
+    "cornerAlg": "[U' R' U2: [U, R D R']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "CH",
+    "memo": "Nuch",
+    "edgeAlg": "[U' L: [L2, S']]",
+    "cornerAlg": "[D R': [R' U R, D]]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "I",
+    "memo": "Nigh",
+    "edgeAlg": "[S U' R': [R2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "SH",
+    "memo": "Nish",
+    "edgeAlg": "[L U L', E]",
+    "cornerAlg": "[U R2 U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "K",
+    "memo": "Nake",
+    "edgeAlg": "[R' E': [E', R U' R']]",
+    "cornerAlg": "[R' U: [U, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "L",
+    "memo": "Nail",
+    "edgeAlg": "[L: [U, L E' L']]",
+    "cornerAlg": "[R': [R' U R, D]]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "M",
+    "memo": "Name",
+    "edgeAlg": "[M, U L U']",
+    "cornerAlg": "[U' L' U, R]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "O",
+    "memo": "No",
+    "edgeAlg": "[U2: [M, U' L U]]",
+    "cornerAlg": "[U' R' U': [R D' R', U']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "P",
+    "memo": "Nap",
+    "edgeAlg": "[R U' R: [E', R2]]",
+    "cornerAlg": "[D' R2': [U, R D R']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "Y",
+    "memo": "Ney",
+    "edgeAlg": "[L' Uw L: [E, L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "R",
+    "memo": "Nar",
+    "edgeAlg": "[L U L', E']",
+    "cornerAlg": "[F, Lw U' Lw']"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "S",
+    "memo": "Nose",
+    "edgeAlg": "[S' U' R: [E', R2]]",
+    "cornerAlg": "[U' R' D: [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "T",
+    "memo": "Not",
+    "edgeAlg": "",
+    "cornerAlg": "[U2 R: [U, R D' R']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "U",
+    "memo": "Nu",
+    "edgeAlg": "[U' D R: [E', R2]]",
+    "cornerAlg": "[U' R': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "V",
+    "memo": "Nove",
+    "edgeAlg": "[U' R: [E', R2]]",
+    "cornerAlg": "[D' U' R': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "W",
+    "memo": "Now",
+    "edgeAlg": "[U' D' R: [E', R2]]",
+    "cornerAlg": "[U R: [D', R U' R']]"
+  },
+  {
+    "firstMainLetter": "N",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "N",
+    "secondAlternateLetter": "X",
+    "memo": "Nux",
+    "edgeAlg": "[L', D' M2 D]",
+    "cornerAlg": "[R2 U: [D', R' U' R]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "A",
+    "memo": "Oa",
+    "edgeAlg": "[U M' U: [U2, M']]",
+    "cornerAlg": "[D' U': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "B",
+    "memo": "Ob",
+    "edgeAlg": "M U' M' U' M U' M' U'",
+    "cornerAlg": "[D': [R D R', U']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "C",
+    "memo": "Orc",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "D",
+    "memo": "Ode",
+    "edgeAlg": "M U M' U M U M' U",
+    "cornerAlg": "[D: [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "Z",
+    "memo": "Oz",
+    "edgeAlg": "",
+    "cornerAlg": "[D R' D: [D' R D R', F2]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "F",
+    "memo": "Off",
+    "edgeAlg": "[U2: [U R U', M]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "G",
+    "memo": "Ogg",
+    "edgeAlg": "[U M': [M U2 M, U']]",
+    "cornerAlg": "[U: [D2', R U' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "CH",
+    "memo": "Ouch",
+    "edgeAlg": "[U2: [U' L' U, M]]",
+    "cornerAlg": "[D' R D': [D2, R' U' R]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "I",
+    "memo": "Oi",
+    "edgeAlg": "[D L F' L': [L2, S']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "SH",
+    "memo": "Osh",
+    "edgeAlg": "[U M: [Lw' E Lw, U']]",
+    "cornerAlg": "[U' R' U': [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "K",
+    "memo": "Oak",
+    "edgeAlg": "[U': [S', R B R']]",
+    "cornerAlg": "[U': [D', R' U' R]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "L",
+    "memo": "Old",
+    "edgeAlg": "[U M: [L E' L', U']]",
+    "cornerAlg": "[U R' D': [D', R U' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "M",
+    "memo": "Ohm",
+    "edgeAlg": "[U': [S, R B R']]",
+    "cornerAlg": "[D R' U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "N",
+    "memo": "On",
+    "edgeAlg": "[U2: [U' L U, M]]",
+    "cornerAlg": "[U' R' U': [U', R D' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "P",
+    "memo": "Op",
+    "edgeAlg": "[U2: [U R' U', M]]",
+    "cornerAlg": "[D' R D': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "Y",
+    "memo": "Oy",
+    "edgeAlg": "[D' R' F R': [S, R2]]",
+    "cornerAlg": "[U D R': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "R",
+    "memo": "Or",
+    "edgeAlg": "[U' M: [R' E R, U]]",
+    "cornerAlg": "[F, Lw U2 Lw']"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "S",
+    "memo": "Os",
+    "edgeAlg": "[U: [R' D R, S']]",
+    "cornerAlg": "[U D: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "T",
+    "memo": "Oat",
+    "edgeAlg": "[U' M: [R E' R', U]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "U",
+    "memo": "Oui",
+    "edgeAlg": "[D': [R F R', S']]",
+    "cornerAlg": "[Lw U' D': [R D R', U2]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "V",
+    "memo": "Ov",
+    "edgeAlg": "[D' R' F': [E, R2]]",
+    "cornerAlg": "[U' D' R': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "W",
+    "memo": "Oww",
+    "edgeAlg": "",
+    "cornerAlg": "[U R: [D2', R U' R']]"
+  },
+  {
+    "firstMainLetter": "O",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "O",
+    "secondAlternateLetter": "X",
+    "memo": "Ox",
+    "edgeAlg": "[D L F: [E', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "A",
+    "memo": "Pa",
+    "edgeAlg": "[R U': [R2, S]]",
+    "cornerAlg": "[D U': [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "B",
+    "memo": "Pub",
+    "edgeAlg": "[E: [R E' R', U']]",
+    "cornerAlg": "[D: [R D' R', U']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "C",
+    "memo": "Pick",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "D",
+    "memo": "Pad",
+    "edgeAlg": "[L E2 L', U]",
+    "cornerAlg": "[D': [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "Z",
+    "memo": "Pez",
+    "edgeAlg": "",
+    "cornerAlg": "[R U: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "F",
+    "memo": "Puff",
+    "edgeAlg": "[U R': [R2, S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "G",
+    "memo": "Peg",
+    "edgeAlg": "[M', U' R' U]",
+    "cornerAlg": "[R U R' U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "CH",
+    "memo": "Patch",
+    "edgeAlg": "[R U' R': [R2, E]]",
+    "cornerAlg": "[D: [D2, R U R']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "I",
+    "memo": "Pi",
+    "edgeAlg": "[R Uw' R: [R2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "SH",
+    "memo": "Pesh",
+    "edgeAlg": "",
+    "cornerAlg": "[U D R: [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "K",
+    "memo": "Poke",
+    "edgeAlg": "[S U L: [L2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "L",
+    "memo": "Poll",
+    "edgeAlg": "[R' U' R, E]",
+    "cornerAlg": "[D', R U R']"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "M",
+    "memo": "Pim",
+    "edgeAlg": "[M, U' R' U]",
+    "cornerAlg": "[R U': [D, R' U R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "N",
+    "memo": "Pan",
+    "edgeAlg": "[R U' R: [R2, E']]",
+    "cornerAlg": "[D' R2': [R D R', U]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "O",
+    "memo": "Poo",
+    "edgeAlg": "[U2: [M, U R' U']]",
+    "cornerAlg": "[D' R D': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "Y",
+    "memo": "Pay",
+    "edgeAlg": "[S' U L': [E, L2]]",
+    "cornerAlg": "[R U2: [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "R",
+    "memo": "Pour",
+    "edgeAlg": "[R': [U', R' E R]]",
+    "cornerAlg": "[D' R' U': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "S",
+    "memo": "Piss",
+    "edgeAlg": "[L E2: [L' U L, E']]",
+    "cornerAlg": "[U R' U': [R' D R, U2]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "T",
+    "memo": "Pet",
+    "edgeAlg": "[R' U' R, E']",
+    "cornerAlg": "[D': [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "U",
+    "memo": "Peu",
+    "edgeAlg": "[U D' L: [L2, E]]",
+    "cornerAlg": "[D' R2: [D', R' U' R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "V",
+    "memo": "Pave",
+    "edgeAlg": "U R U R U' R' U' R' U' R",
+    "cornerAlg": "[D' R D: [U, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "W",
+    "memo": "Pew",
+    "edgeAlg": "[M2, U' R' U]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "P",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "P",
+    "secondAlternateLetter": "X",
+    "memo": "Pax",
+    "edgeAlg": "[U L': [E, L2]]",
+    "cornerAlg": "[R U' D: [R' U R, D2]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "A",
+    "memo": "Ya",
+    "edgeAlg": "[U' M U': [U2, M']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "B",
+    "memo": "Yib",
+    "edgeAlg": "[L F' L', S']",
+    "cornerAlg": "[R: [R D R', U]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "C",
+    "memo": "Yack",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "D",
+    "memo": "Yid",
+    "edgeAlg": "",
+    "cornerAlg": "[R U R': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "Z",
+    "memo": "Yaz",
+    "edgeAlg": "",
+    "cornerAlg": "[Lw' U': [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "F",
+    "memo": "Yaff",
+    "edgeAlg": "[S' U L: [L2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "G",
+    "memo": "Yang",
+    "edgeAlg": "[L F: [L' U L, E']]",
+    "cornerAlg": "[R U R': [R' D' R, U']]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "CH",
+    "memo": "Yitch",
+    "edgeAlg": "[Rw' F': [F', Rw S Rw']]",
+    "cornerAlg": "[R U2: [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "I",
+    "memo": "Yi",
+    "edgeAlg": "[M U': [U2, M']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "SH",
+    "memo": "Yosh",
+    "edgeAlg": "[Rw' U': [U2, M']]",
+    "cornerAlg": "[R: [R2' D R2 D' R2', U]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "K",
+    "memo": "Yoke",
+    "edgeAlg": "[R' F R': [R2, S]]",
+    "cornerAlg": "[U' R: [R U' R', D']]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "L",
+    "memo": "Yell",
+    "edgeAlg": "[R M U': [U2, M']]",
+    "cornerAlg": "[U R' U': [U', R D R']]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "M",
+    "memo": "Yum",
+    "edgeAlg": "[L' U' L U, M']",
+    "cornerAlg": "[R', F' L F]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "N",
+    "memo": "Yin",
+    "edgeAlg": "[L' Uw L: [L2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "O",
+    "memo": "Yo",
+    "edgeAlg": "[D' R' F R': [R2, S]]",
+    "cornerAlg": "[U D R': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "P",
+    "memo": "Yop",
+    "edgeAlg": "[S' U L': [L2, E]]",
+    "cornerAlg": "[R U2: [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "R",
+    "memo": "Your",
+    "edgeAlg": "[S: [U', R' E R]]",
+    "cornerAlg": "[L, U' R' U]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "S",
+    "memo": "Yes",
+    "edgeAlg": "[Lw' U L': [S', L2]]",
+    "cornerAlg": "[U R': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "T",
+    "memo": "Yeet",
+    "edgeAlg": "[S: [U', R E' R']]",
+    "cornerAlg": "[R D': [R D R', U]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "U",
+    "memo": "You",
+    "edgeAlg": "[L' F': [L2, E']]",
+    "cornerAlg": "[R: [R D2 R', U]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "V",
+    "memo": "You've",
+    "edgeAlg": "[L: [F', L S L']]",
+    "cornerAlg": "[D' R: [R D2 R', U]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "W",
+    "memo": "Yawn",
+    "edgeAlg": "[D: [L F' L', S]]",
+    "cornerAlg": "[D R2: [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "Q",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "Y",
+    "secondAlternateLetter": "X",
+    "memo": "Yux",
+    "edgeAlg": "[L F' L', S]",
+    "cornerAlg": "[R2: [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "A",
+    "memo": "Ray",
+    "edgeAlg": "[U': [U2, R' E R]]",
+    "cornerAlg": "[F: [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "B",
+    "memo": "Rob",
+    "edgeAlg": "[R' E R, U']",
+    "cornerAlg": "[R': [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "C",
+    "memo": "Rock",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "D",
+    "memo": "Rad",
+    "edgeAlg": "[U': [U', R' E R]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "Z",
+    "memo": "Raze",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "F",
+    "memo": "Raff",
+    "edgeAlg": "[E, R U' R']",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "G",
+    "memo": "Rag",
+    "edgeAlg": "[M': [M', U' L' U]]",
+    "cornerAlg": "[R: [F, R' U R U']]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "CH",
+    "memo": "Rich",
+    "edgeAlg": "",
+    "cornerAlg": "[D R' U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "I",
+    "memo": "Rice",
+    "edgeAlg": "[U' M: [U', R' E R]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "SH",
+    "memo": "Rash",
+    "edgeAlg": "[Rw U R: [R2, E]]",
+    "cornerAlg": "[R U' D' R2': [R D R', U]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "K",
+    "memo": "Rake",
+    "edgeAlg": "[M' U R: [R2, E]]",
+    "cornerAlg": "[R' U: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "L",
+    "memo": "Rail",
+    "edgeAlg": "[U E R: [R2, S]]",
+    "cornerAlg": "[R' U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "M",
+    "memo": "Ram",
+    "edgeAlg": "[U' L' U, M']",
+    "cornerAlg": "[R' F: [R U R', D]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "N",
+    "memo": "Run",
+    "edgeAlg": "[E', L U L']",
+    "cornerAlg": "[Lw U' Lw', F]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "O",
+    "memo": "Rowe",
+    "edgeAlg": "[U' M: [U, R' E R]]",
+    "cornerAlg": "[Lw U2 Lw', F]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "P",
+    "memo": "Rip",
+    "edgeAlg": "[R': [R' E R, U']]",
+    "cornerAlg": "[D' R' U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "Y",
+    "memo": "Roy",
+    "edgeAlg": "[S: [R' E R, U']]",
+    "cornerAlg": "[U' R' U, L]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "S",
+    "memo": "Rest",
+    "edgeAlg": "[L, D M D']",
+    "cornerAlg": "[R' U': [D, R U R']]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "T",
+    "memo": "Rat",
+    "edgeAlg": "[Rw U L: [S', L2]]",
+    "cornerAlg": "[U' R U': [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "U",
+    "memo": "Rue",
+    "edgeAlg": "[U R' F2: [R S R', F]]",
+    "cornerAlg": "[U' R' U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "V",
+    "memo": "Rove",
+    "edgeAlg": "[U' E' R: [E', R2]]",
+    "cornerAlg": "[R U' R': [R' D' R, U2]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "W",
+    "memo": "Row",
+    "edgeAlg": "[M: [U' L' U, M2]]",
+    "cornerAlg": "[R U' R': [D, R' U R]]"
+  },
+  {
+    "firstMainLetter": "R",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "R",
+    "secondAlternateLetter": "X",
+    "memo": "Rax",
+    "edgeAlg": "[U E L: [E', L2]]",
+    "cornerAlg": "[R2' D2: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "A",
+    "memo": "Saah",
+    "edgeAlg": "[U: [U2, L E L']]",
+    "cornerAlg": "[U2, R' D R]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "B",
+    "memo": "Sob",
+    "edgeAlg": "[U: [U, L' E' L]]",
+    "cornerAlg": "[U, R' D R]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "C",
+    "memo": "Sic",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "D",
+    "memo": "Sad",
+    "edgeAlg": "[L' E' L, U]",
+    "cornerAlg": "[U', R' D R]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "Z",
+    "memo": "Size",
+    "edgeAlg": "",
+    "cornerAlg": "[R' D: [D' R D R', F2]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "F",
+    "memo": "Safe",
+    "edgeAlg": "[U: [L F2 L', S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "G",
+    "memo": "Sag",
+    "edgeAlg": "[U: [L F L', S]]",
+    "cornerAlg": "[U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "CH",
+    "memo": "Such",
+    "edgeAlg": "[S' U' R': [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "I",
+    "memo": "Sigh",
+    "edgeAlg": "[L F' L': [L2, S']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "SH",
+    "memo": "Sash",
+    "edgeAlg": "[L F': [E, L2]]",
+    "cornerAlg": "[U R U': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "K",
+    "memo": "Suck",
+    "edgeAlg": "[R' F R: [R2, S']]",
+    "cornerAlg": "[U D': [D2', R U' R']]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "L",
+    "memo": "Saul",
+    "edgeAlg": "[M' U' L: [L2, E']]",
+    "cornerAlg": "[U R' D': [D2, R U' R']]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "M",
+    "memo": "Som",
+    "edgeAlg": "[U' D: [S, R' F' R]]",
+    "cornerAlg": "[R' U: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "N",
+    "memo": "Sun",
+    "edgeAlg": "[S' U' R: [R2, E']]",
+    "cornerAlg": "[U' R' D: [U', R' D' R]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "O",
+    "memo": "Sow",
+    "edgeAlg": "[U: [S', R' D R]]",
+    "cornerAlg": "[U D: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "P",
+    "memo": "Soap",
+    "edgeAlg": "[L E2: [E', L' U L]]",
+    "cornerAlg": "[U R' U': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "Y",
+    "memo": "Say",
+    "edgeAlg": "[Lw' U L': [L2, S']]",
+    "cornerAlg": "[U R': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "R",
+    "memo": "Sir",
+    "edgeAlg": "[D M D', L]",
+    "cornerAlg": "[R' U': [R U R', D]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "T",
+    "memo": "Sit",
+    "edgeAlg": "[U S' U', L']",
+    "cornerAlg": "[D R': [F', R D' R' D]]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "U",
+    "memo": "Sue",
+    "edgeAlg": "[L F: [E', L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "V",
+    "memo": "Save",
+    "edgeAlg": "[L' F' L, S]",
+    "cornerAlg": "[U D R D': [U', R' D R]] "
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "W",
+    "memo": "Saw",
+    "edgeAlg": "[U: [S', L B' L']]",
+    "cornerAlg": "[U R: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "S",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "S",
+    "secondAlternateLetter": "X",
+    "memo": "Sex",
+    "edgeAlg": "",
+    "cornerAlg": "[D U R U': [F2, U R' U' R]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "A",
+    "memo": "Ta",
+    "edgeAlg": "[U': [U2, R E' R']]",
+    "cornerAlg": "[U': [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "B",
+    "memo": "Tab",
+    "edgeAlg": "[R E' R', U']",
+    "cornerAlg": "[R D' R', U']"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "C",
+    "memo": "Tic",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "D",
+    "memo": "Ted",
+    "edgeAlg": "[U': [U', R E' R']]",
+    "cornerAlg": "[U': [U', R D' R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "Z",
+    "memo": "Taze",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D: [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "F",
+    "memo": "Tiff",
+    "edgeAlg": "[R: [R E' R', U']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "G",
+    "memo": "Tag",
+    "edgeAlg": "[U' M': [U', R E' R']]",
+    "cornerAlg": "[Lw' U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "CH",
+    "memo": "Tech",
+    "edgeAlg": "[E, L' U L]",
+    "cornerAlg": "[D: [D, R U R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "I",
+    "memo": "Tie",
+    "edgeAlg": "[Lw U': [U2, M']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "SH",
+    "memo": "Tash",
+    "edgeAlg": "[Uw R': [R2, S]]",
+    "cornerAlg": "[U R: [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "K",
+    "memo": "Toke",
+    "edgeAlg": "[R' F: [R2, E']]",
+    "cornerAlg": "[R D: [D2, R' U' R]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "L",
+    "memo": "Tall",
+    "edgeAlg": "[R2 F: [R2, E']]",
+    "cornerAlg": "[D2, R U R']"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "M",
+    "memo": "Tim",
+    "edgeAlg": "[U' L U, M']",
+    "cornerAlg": "[U' L U, R]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "N",
+    "memo": "Tan",
+    "edgeAlg": "",
+    "cornerAlg": "[U2 R: [R D' R', U]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "O",
+    "memo": "Toe",
+    "edgeAlg": "[U' M: [U, R E' R']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "P",
+    "memo": "Tap",
+    "edgeAlg": "[E', R' U' R]",
+    "cornerAlg": "[D': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "Y",
+    "memo": "Toy",
+    "edgeAlg": "[S: [R E' R', U']]",
+    "cornerAlg": "[R D': [U, R D R']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "R",
+    "memo": "Tar",
+    "edgeAlg": "[Rw U L: [L2, S']]",
+    "cornerAlg": "[U' R U': [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "S",
+    "memo": "Toss",
+    "edgeAlg": "[L', U S' U']",
+    "cornerAlg": "[D R': [R D' R' D, F']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "U",
+    "memo": "Tube",
+    "edgeAlg": "[F: [E', L2]]",
+    "cornerAlg": "[D' R D U': [R' U R, D2]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "V",
+    "memo": "Tove",
+    "edgeAlg": "[Uw' R': [E, R2]]",
+    "cornerAlg": "[D2 R: [R D' R', U']]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "W",
+    "memo": "Two",
+    "edgeAlg": "[M: [U' L U, M2]]",
+    "cornerAlg": "[R D' R': [R' D R, U]]"
+  },
+  {
+    "firstMainLetter": "T",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "T",
+    "secondAlternateLetter": "X",
+    "memo": "Tax",
+    "edgeAlg": "[Uw L': [E, L2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "A",
+    "memo": "Ua",
+    "edgeAlg": "[M', U2]",
+    "cornerAlg": "[R F' R' U': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "B",
+    "memo": "Ub",
+    "edgeAlg": "[U, M U2 M]",
+    "cornerAlg": "[R F': [D, R' U' R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "C",
+    "memo": "Uce",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "D",
+    "memo": "Udd",
+    "edgeAlg": "[R' F': [F2, R S R']]",
+    "cornerAlg": "[R' U' R: [R' U R U', F2]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "Z",
+    "memo": "Uz",
+    "edgeAlg": "",
+    "cornerAlg": "[R U D: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "F",
+    "memo": "Uff",
+    "edgeAlg": "[U D' L: [L2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "G",
+    "memo": "Ugg",
+    "edgeAlg": "",
+    "cornerAlg": "[R: [F2', R' U R U']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "CH",
+    "memo": "Uch",
+    "edgeAlg": "[U' D R': [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "I",
+    "memo": "Ui",
+    "edgeAlg": "[R F: [E, R2]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "SH",
+    "memo": "Ush",
+    "edgeAlg": "[F': [R2, E]]",
+    "cornerAlg": "[U' R2': [R U2 R', D]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "K",
+    "memo": "Uck",
+    "edgeAlg": "[R' F': [R2, E]]",
+    "cornerAlg": "[U' R': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "L",
+    "memo": "Ul",
+    "edgeAlg": "[R2 F': [R2, E]]",
+    "cornerAlg": "[R D: [R' D' R, U]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "M",
+    "memo": "Um",
+    "edgeAlg": "[U: [R' F' R, S]]",
+    "cornerAlg": "[D' R U': [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "N",
+    "memo": "Un",
+    "edgeAlg": "[U' D R: [R2, E']]",
+    "cornerAlg": "[U' R': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "O",
+    "memo": "Uoh",
+    "edgeAlg": "[D': [S', R F R']]",
+    "cornerAlg": "[Lw U' D': [U2, R D R']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "P",
+    "memo": "Up",
+    "edgeAlg": "[U D' L: [E, L2]]",
+    "cornerAlg": "[D' R2: [R' U' R, D']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "Y",
+    "memo": "Suq",
+    "edgeAlg": "[L' F': [E', L2]]",
+    "cornerAlg": "[R: [U, R D2 R']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "R",
+    "memo": "Ur",
+    "edgeAlg": "[U R' F2: [F, R S R']]",
+    "cornerAlg": "[U' R' U: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "S",
+    "memo": "Use",
+    "edgeAlg": "[L F: [L2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "T",
+    "memo": "Ute",
+    "edgeAlg": "[F: [L2, E']]",
+    "cornerAlg": "[D' R D U': [D2, R' U R]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "V",
+    "memo": "Ubh",
+    "edgeAlg": "[R' F R: [S', R' F2 R]]",
+    "cornerAlg": "[D, R2' U R2 U' R2']"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "W",
+    "memo": "Uw",
+    "edgeAlg": "M2 U2 M U2 M",
+    "cornerAlg": "[U' R2: [R2' U R2 U' R2', D]]"
+  },
+  {
+    "firstMainLetter": "U",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "U",
+    "secondAlternateLetter": "X",
+    "memo": "Ux",
+    "edgeAlg": "[L F': [L' S L, F2]]",
+    "cornerAlg": "[R U' D2: [R' U R, D]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "A",
+    "memo": "Va",
+    "edgeAlg": "[U': [R2, S]]",
+    "cornerAlg": "[R2: [R2' D R2 D' R2', U]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "B",
+    "memo": "Vibe",
+    "edgeAlg": "[R' U R': [R2, S]]",
+    "cornerAlg": "[U, R' D R U' R D' R']"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "C",
+    "memo": "Vac",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "D",
+    "memo": "Vod",
+    "edgeAlg": "R' U' R U R U R U' R' U'",
+    "cornerAlg": "[U', R' D R U' R D' R']"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "Z",
+    "memo": "Vize",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R U D: [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "F",
+    "memo": "Voff",
+    "edgeAlg": "U2' R U' R' U' R' U' R U R U'",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "G",
+    "memo": "Vag",
+    "edgeAlg": "[U R' F' R': [R2, S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "CH",
+    "memo": "Vech",
+    "edgeAlg": "[U' R': [R2, E]]",
+    "cornerAlg": "[R U' R': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "I",
+    "memo": "Vie",
+    "edgeAlg": "[S', R' F R]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "SH",
+    "memo": "Vish",
+    "edgeAlg": "[Uw' R: [R2, E']]",
+    "cornerAlg": "[U' D' R2': [R U2 R', D]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "K",
+    "memo": "Vik",
+    "edgeAlg": "",
+    "cornerAlg": "[D' R: [F2', R' U R U']]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "L",
+    "memo": "Vale",
+    "edgeAlg": "[U' E' R': [R2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "M",
+    "memo": "Vim",
+    "edgeAlg": "[U D': [R' F' R, S]]",
+    "cornerAlg": "[U R' U': [D', R U R']]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "N",
+    "memo": "Vine",
+    "edgeAlg": "[U' R: [R2, E']]",
+    "cornerAlg": "[D' U' R': [U', R' D R]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "O",
+    "memo": "Vo",
+    "edgeAlg": "[D' R' F': [R2, E]]",
+    "cornerAlg": "[U' D' R': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "P",
+    "memo": "Vape",
+    "edgeAlg": "R' U R U R U R' U' R' U'",
+    "cornerAlg": "[D' R D: [R' D' R, U]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "Y",
+    "memo": "Vy",
+    "edgeAlg": "[L: [L S L', F']]",
+    "cornerAlg": "[D' R: [U, R D2 R']]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "R",
+    "memo": "Var",
+    "edgeAlg": "[U' E' R: [R2, E']]",
+    "cornerAlg": "[R U' R': [U2, R' D' R]]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "S",
+    "memo": "Vase",
+    "edgeAlg": "[S, L' F' L]",
+    "cornerAlg": "[U D R D': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "T",
+    "memo": "Vet",
+    "edgeAlg": "[Uw' R': [R2, E]]",
+    "cornerAlg": "[D2 R: [U', R D' R']]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "U",
+    "memo": "Vue",
+    "edgeAlg": "[R' F R: [R' F2 R, S']]",
+    "cornerAlg": "[R2' U R2 U' R2', D]"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "W",
+    "memo": "Vow",
+    "edgeAlg": "[U' R D R': [S', R2]]",
+    "cornerAlg": "[R2' U R2 U' R2' , D']"
+  },
+  {
+    "firstMainLetter": "V",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "V",
+    "secondAlternateLetter": "X",
+    "memo": "Vex",
+    "edgeAlg": "[U': [S', R2]]",
+    "cornerAlg": "[R U' R' U: [R D' R', U2]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "A",
+    "memo": "Waze",
+    "edgeAlg": "[U2, M]",
+    "cornerAlg": "[R D' R': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "B",
+    "memo": "Web",
+    "edgeAlg": "[R U' R' U, M2]",
+    "cornerAlg": "[R D' R' U R' D R, U']"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "C",
+    "memo": "Wic",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "D",
+    "memo": "Wed",
+    "edgeAlg": "D' R' U' R U R U R U' R' D U'",
+    "cornerAlg": "[R D' R2': [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "Z",
+    "memo": "Waze",
+    "edgeAlg": "",
+    "cornerAlg": "[D R2: [R' U2 R, D']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "F",
+    "memo": "Wife",
+    "edgeAlg": "[U' R U, M2]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "G",
+    "memo": "Weg",
+    "edgeAlg": "[D: [S', R F R']]",
+    "cornerAlg": "[U R D': [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "CH",
+    "memo": "Witch",
+    "edgeAlg": "[U L' U', M2]",
+    "cornerAlg": "[D R: [U', R D' R']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "I",
+    "memo": "Wine",
+    "edgeAlg": "[D': [S', R' F R]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "SH",
+    "memo": "Wash",
+    "edgeAlg": "[M: [M2, U R' U']]",
+    "cornerAlg": "[U R U' D': [U2, R' D R]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "K",
+    "memo": "Woke",
+    "edgeAlg": "[U': [R' B R, S]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "L",
+    "memo": "Wall",
+    "edgeAlg": "[M: [M2, U R U']]",
+    "cornerAlg": "[R: [R2' D' R2 D R2', U]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "M",
+    "memo": "Wham",
+    "edgeAlg": "[U: [R B R', S]]",
+    "cornerAlg": "[D R U': [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "N",
+    "memo": "Win",
+    "edgeAlg": "[U' D' R: [R2, E']]",
+    "cornerAlg": "[U R: [R U' R', D']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "O",
+    "memo": "Woah",
+    "edgeAlg": "",
+    "cornerAlg": "[U R: [R U' R', D2']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "P",
+    "memo": "Whip",
+    "edgeAlg": "[U' R' U, M2]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "Y",
+    "memo": "Why",
+    "edgeAlg": "[D: [S, L F' L']]",
+    "cornerAlg": "[D R2: [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "R",
+    "memo": "War",
+    "edgeAlg": "[M: [M2, U' L' U]]",
+    "cornerAlg": "[R U' R': [R' U R, D]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "S",
+    "memo": "Was",
+    "edgeAlg": "[U: [L B' L', S']]",
+    "cornerAlg": "[U R: [R U' R', D]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "T",
+    "memo": "What",
+    "edgeAlg": "[M: [M2, U' L U]]",
+    "cornerAlg": "[R D' R': [U, R' D R]]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "U",
+    "memo": "Wu",
+    "edgeAlg": "M' U2' M' U2' M2'",
+    "cornerAlg": "[U' R2: [D, R2' U R2 U' R2']]"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "V",
+    "memo": "Wave",
+    "edgeAlg": "[U' R D R': [R2, S']]",
+    "cornerAlg": "[D', R2' U R2 U' R2']"
+  },
+  {
+    "firstMainLetter": "W",
+    "secondMainLetter": "X",
+    "firstAlternateLetter": "W",
+    "secondAlternateLetter": "X",
+    "memo": "Wex",
+    "edgeAlg": "U' D R D R' D' R' D' R' D R U",
+    "cornerAlg": "[R U' R': [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "A",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "A",
+    "memo": "Sha",
+    "edgeAlg": "[U: [L2, S']]",
+    "cornerAlg": "[R' D' U' R2: [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "B",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "B",
+    "memo": "Sheb",
+    "edgeAlg": "L U L' U' L' U' L' U L U",
+    "cornerAlg": "[R' B: [R U R', D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "C",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "C",
+    "memo": "Shac",
+    "edgeAlg": "",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "D",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "D",
+    "memo": "Shed",
+    "edgeAlg": "[L U' L: [L2, S']]",
+    "cornerAlg": "[R' D' R2: [R' D R, U']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "E",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "Z",
+    "memo": "Shaz",
+    "edgeAlg": "",
+    "cornerAlg": "[R2 U: [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "F",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "F",
+    "memo": "Shaf",
+    "edgeAlg": "[U L: [L2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "G",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "G",
+    "memo": "Shag",
+    "edgeAlg": "[U' L F L: [L2, S']]",
+    "cornerAlg": "[D U' R2': [R U R', D]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "H",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "CH",
+    "memo": "Shhh",
+    "edgeAlg": "U2' L' U L U L U L' U' L' U",
+    "cornerAlg": "[D R D: [R' D' R, U]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "I",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "I",
+    "memo": "She",
+    "edgeAlg": "[R': [R' S' R, F]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "J",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "SH",
+    "memo": "Sheesh",
+    "edgeAlg": "[Uw L: [L2, E']]",
+    "cornerAlg": "[D U' R2': [R U2 R', D]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "K",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "K",
+    "memo": "Shake",
+    "edgeAlg": "[S', R F R']",
+    "cornerAlg": "[R2 D2: [D, R U R']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "L",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "L",
+    "memo": "Shell",
+    "edgeAlg": "[U E L': [L2, E]]",
+    "cornerAlg": "[R2: [R' U' R, D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "M",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "M",
+    "memo": "Shim",
+    "edgeAlg": "[U D: [R' F' R, S]]",
+    "cornerAlg": "[R U': [D', R' U R]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "N",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "N",
+    "memo": "Shon",
+    "edgeAlg": "[D' M2 D, L']",
+    "cornerAlg": "[R2 U: [R' U' R, D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "O",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "O",
+    "memo": "Show",
+    "edgeAlg": "[D L F: [L2, E']]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "P",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "P",
+    "memo": "Shop",
+    "edgeAlg": "[U L': [L2, E]]",
+    "cornerAlg": "[R U' D: [D2, R' U R]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "Q",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "Y",
+    "memo": "Shy",
+    "edgeAlg": "[S, L F' L']",
+    "cornerAlg": "[R2: [R' U R, D']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "R",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "R",
+    "memo": "Shore",
+    "edgeAlg": "[U E L: [L2, E']]",
+    "cornerAlg": "[R2' D2: [D, R U' R']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "S",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "S",
+    "memo": "Sh",
+    "edgeAlg": "",
+    "cornerAlg": "[D U R U': [U R' U' R, F2]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "T",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "T",
+    "memo": "Shit",
+    "edgeAlg": "[Uw L': [L2, E]]",
+    "cornerAlg": ""
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "U",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "U",
+    "memo": "Shoe",
+    "edgeAlg": "[L F': [F2, L' S L]]",
+    "cornerAlg": "[R U' D2: [D, R' U R]]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "V",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "V",
+    "memo": "Shave",
+    "edgeAlg": "[U': [R2, S']]",
+    "cornerAlg": "[R U' R' U: [U2, R D' R']]"
+  },
+  {
+    "firstMainLetter": "X",
+    "secondMainLetter": "W",
+    "firstAlternateLetter": "SH",
+    "secondAlternateLetter": "W",
+    "memo": "Shaw",
+    "edgeAlg": "U' R' D' R D R D R D' R' D' U",
+    "cornerAlg": "[R U' R': [D', R' U R]]"
+  }
+]
